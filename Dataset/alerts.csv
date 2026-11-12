@@ -1,0 +1,1160 @@
+alert_id,transaction_id,customer_id,alert_type,severity,alert_date,alert_status,investigation_result
+AL100001,T900034,C10710,Repeated Failed Transaction,Medium,2026-07-18,Escalated,No Issue
+AL100002,T900048,C10296,Repeated Failed Transaction,Medium,2026-05-09,Closed,No Issue
+AL100003,T900054,C10435,Repeated Failed Transaction,Medium,2026-07-01,Escalated,No Issue
+AL100004,T900059,C10279,Repeated Failed Transaction,Medium,2026-04-13,Under Investigation,Pending
+AL100005,T900077,C10018,Dormant Account Activity,High,2026-05-09,Under Investigation,Pending
+AL100006,T900087,C10029,Repeated Failed Transaction,Medium,2026-06-04,Closed,False Positive
+AL100007,T900092,C10005,Dormant Account Activity,High,2026-05-31,Escalated,False Positive
+AL100008,T900117,C10296,Repeated Failed Transaction,Medium,2026-09-27,Closed,False Positive
+AL100009,T900126,C10175,Repeated Failed Transaction,Medium,2026-06-15,Escalated,No Issue
+AL100010,T900134,C10676,Repeated Failed Transaction,Medium,2026-08-10,Open,No Issue
+AL100011,T900155,C10524,Repeated Failed Transaction,Medium,2026-06-22,Open,Confirmed Suspicious
+AL100012,T900173,C10493,Repeated Failed Transaction,Medium,2026-07-18,Closed,Confirmed Suspicious
+AL100013,T900179,C10706,Repeated Failed Transaction,Medium,2026-07-06,Escalated,Pending
+AL100014,T900187,C10681,Repeated Failed Transaction,Medium,2026-07-17,Closed,No Issue
+AL100015,T900188,C10796,Repeated Failed Transaction,Medium,2026-06-11,Under Investigation,False Positive
+AL100016,T900189,C10354,Repeated Failed Transaction,Medium,2026-06-02,Closed,Pending
+AL100017,T900239,C10920,Repeated Failed Transaction,Medium,2026-07-01,Open,False Positive
+AL100018,T900260,C10541,Repeated Failed Transaction,Medium,2026-09-13,Escalated,False Positive
+AL100019,T900276,C10923,Repeated Failed Transaction,Medium,2026-06-28,Open,Pending
+AL100020,T900288,C10626,Repeated Failed Transaction,Medium,2026-07-02,Escalated,Pending
+AL100021,T900292,C10820,Repeated Failed Transaction,Medium,2026-04-04,Under Investigation,False Positive
+AL100022,T900354,C10413,Repeated Failed Transaction,Medium,2026-06-10,Under Investigation,Pending
+AL100023,T900358,C10320,Repeated Failed Transaction,Medium,2026-04-05,Open,Confirmed Suspicious
+AL100024,T900382,C10406,Repeated Failed Transaction,Medium,2026-06-02,Escalated,Confirmed Suspicious
+AL100025,T900398,C10318,Repeated Failed Transaction,Medium,2026-09-10,Open,No Issue
+AL100026,T900433,C10502,Repeated Failed Transaction,Medium,2026-04-01,Closed,False Positive
+AL100027,T900434,C10573,Repeated Failed Transaction,Medium,2026-05-05,Under Investigation,False Positive
+AL100028,T900442,C10298,Repeated Failed Transaction,Medium,2026-08-22,Closed,No Issue
+AL100029,T900444,C10453,Repeated Failed Transaction,Medium,2026-04-22,Closed,Confirmed Suspicious
+AL100030,T900474,C10195,Repeated Failed Transaction,Medium,2026-07-15,Escalated,Pending
+AL100031,T900480,C10233,Repeated Failed Transaction,Medium,2026-08-27,Closed,No Issue
+AL100032,T900484,C10372,Repeated Failed Transaction,Medium,2026-05-30,Closed,Pending
+AL100033,T900488,C10817,Repeated Failed Transaction,Medium,2026-08-14,Closed,Pending
+AL100034,T900498,C10902,Repeated Failed Transaction,Medium,2026-09-23,Open,No Issue
+AL100035,T900502,C10018,Dormant Account Activity,High,2026-08-21,Closed,Pending
+AL100036,T900513,C10101,Repeated Failed Transaction,Medium,2026-08-15,Closed,No Issue
+AL100037,T900532,C10562,Repeated Failed Transaction,Medium,2026-09-27,Under Investigation,Confirmed Suspicious
+AL100038,T900538,C10862,Repeated Failed Transaction,Medium,2026-06-16,Under Investigation,False Positive
+AL100039,T900557,C10473,Repeated Failed Transaction,Medium,2026-06-02,Escalated,No Issue
+AL100040,T900576,C10364,Repeated Failed Transaction,Medium,2026-06-27,Closed,Pending
+AL100041,T900603,C10157,Repeated Failed Transaction,Medium,2026-08-19,Closed,Confirmed Suspicious
+AL100042,T900613,C10822,Repeated Failed Transaction,Medium,2026-07-15,Under Investigation,No Issue
+AL100043,T900618,C10158,Repeated Failed Transaction,Medium,2026-07-26,Under Investigation,Confirmed Suspicious
+AL100044,T900657,C10622,Repeated Failed Transaction,Medium,2026-07-02,Escalated,Pending
+AL100045,T900677,C10594,Repeated Failed Transaction,Medium,2026-05-29,Under Investigation,Pending
+AL100046,T900693,C10687,Repeated Failed Transaction,Medium,2026-04-01,Escalated,Pending
+AL100047,T900729,C10312,Repeated Failed Transaction,Medium,2026-05-26,Closed,Pending
+AL100048,T900734,C10472,Repeated Failed Transaction,Medium,2026-07-09,Closed,Pending
+AL100049,T900740,C10690,Repeated Failed Transaction,Medium,2026-07-16,Closed,Confirmed Suspicious
+AL100050,T900744,C10641,Repeated Failed Transaction,Medium,2026-09-11,Escalated,Pending
+AL100051,T900748,C10524,Repeated Failed Transaction,Medium,2026-06-16,Escalated,No Issue
+AL100052,T900768,C10838,Repeated Failed Transaction,Medium,2026-08-31,Open,Pending
+AL100053,T900776,C10388,Repeated Failed Transaction,Medium,2026-09-11,Escalated,False Positive
+AL100054,T900790,C10149,Repeated Failed Transaction,Medium,2026-04-08,Closed,False Positive
+AL100055,T900818,C10808,Repeated Failed Transaction,Medium,2026-09-25,Under Investigation,Pending
+AL100056,T900861,C10125,Repeated Failed Transaction,Medium,2026-04-19,Under Investigation,Pending
+AL100057,T900872,C10002,Dormant Account Activity,High,2026-04-23,Escalated,Pending
+AL100058,T900882,C10005,Dormant Account Activity,High,2026-06-24,Open,False Positive
+AL100059,T900895,C10005,Dormant Account Activity,High,2026-04-29,Open,False Positive
+AL100060,T900906,C10646,Repeated Failed Transaction,Medium,2026-04-19,Escalated,Pending
+AL100061,T900907,C10714,Repeated Failed Transaction,Medium,2026-04-24,Open,No Issue
+AL100062,T900924,C10296,Repeated Failed Transaction,Medium,2026-05-22,Escalated,Confirmed Suspicious
+AL100063,T900925,C10920,Repeated Failed Transaction,Medium,2026-09-22,Closed,Confirmed Suspicious
+AL100064,T900976,C10486,Repeated Failed Transaction,Medium,2026-09-15,Closed,No Issue
+AL100065,T900981,C10103,Repeated Failed Transaction,Medium,2026-09-13,Open,Pending
+AL100066,T900991,C10956,Repeated Failed Transaction,Medium,2026-08-18,Closed,Pending
+AL100067,T901001,C10712,Repeated Failed Transaction,Medium,2026-05-08,Closed,False Positive
+AL100068,T901003,C10586,Repeated Failed Transaction,Medium,2026-06-21,Escalated,False Positive
+AL100069,T901004,C10509,Repeated Failed Transaction,Medium,2026-04-26,Closed,Confirmed Suspicious
+AL100070,T901008,C10031,Repeated Failed Transaction,Medium,2026-04-09,Under Investigation,False Positive
+AL100071,T901011,C10371,Repeated Failed Transaction,Medium,2026-04-20,Closed,Confirmed Suspicious
+AL100072,T901029,C10535,Repeated Failed Transaction,Medium,2026-07-20,Escalated,False Positive
+AL100073,T901046,C10537,Repeated Failed Transaction,Medium,2026-09-13,Under Investigation,No Issue
+AL100074,T901056,C10643,Repeated Failed Transaction,Medium,2026-05-13,Open,Pending
+AL100075,T901062,C10121,Repeated Failed Transaction,Medium,2026-08-28,Escalated,Pending
+AL100076,T901079,C10185,Repeated Failed Transaction,Medium,2026-07-31,Under Investigation,No Issue
+AL100077,T901091,C10026,Repeated Failed Transaction,Medium,2026-08-29,Closed,Pending
+AL100078,T901096,C10948,Repeated Failed Transaction,Medium,2026-09-16,Closed,Confirmed Suspicious
+AL100079,T901112,C10411,Repeated Failed Transaction,Medium,2026-06-11,Escalated,No Issue
+AL100080,T901126,C10044,Repeated Failed Transaction,Medium,2026-08-04,Escalated,Confirmed Suspicious
+AL100081,T901129,C10214,Repeated Failed Transaction,Medium,2026-09-18,Under Investigation,False Positive
+AL100082,T901149,C10316,Repeated Failed Transaction,Medium,2026-07-07,Under Investigation,False Positive
+AL100083,T901153,C10132,Repeated Failed Transaction,Medium,2026-05-16,Closed,Confirmed Suspicious
+AL100084,T901164,C10012,Dormant Account Activity,High,2026-07-31,Closed,No Issue
+AL100085,T901188,C10288,Repeated Failed Transaction,Medium,2026-04-11,Escalated,Confirmed Suspicious
+AL100086,T901190,C10851,Repeated Failed Transaction,Medium,2026-08-16,Under Investigation,Pending
+AL100087,T901193,C10098,Repeated Failed Transaction,Medium,2026-07-16,Open,No Issue
+AL100088,T901211,C10242,Repeated Failed Transaction,Medium,2026-08-19,Escalated,Confirmed Suspicious
+AL100089,T901234,C10633,Repeated Failed Transaction,Medium,2026-09-24,Closed,Pending
+AL100090,T901260,C10454,Repeated Failed Transaction,Medium,2026-07-23,Closed,No Issue
+AL100091,T901274,C10814,Repeated Failed Transaction,Medium,2026-04-10,Escalated,False Positive
+AL100092,T901276,C10048,Repeated Failed Transaction,Medium,2026-08-01,Escalated,Pending
+AL100093,T901297,C10695,Repeated Failed Transaction,Medium,2026-05-06,Closed,No Issue
+AL100094,T901308,C10521,Repeated Failed Transaction,Medium,2026-04-15,Escalated,Confirmed Suspicious
+AL100095,T901319,C10948,Repeated Failed Transaction,Medium,2026-08-01,Escalated,Pending
+AL100096,T901365,C10348,Repeated Failed Transaction,Medium,2026-09-12,Closed,No Issue
+AL100097,T901401,C10112,Repeated Failed Transaction,Medium,2026-09-26,Open,False Positive
+AL100098,T901425,C10009,Repeated Failed Transaction,Medium,2026-08-26,Under Investigation,Pending
+AL100099,T901441,C10105,Repeated Failed Transaction,Medium,2026-04-18,Under Investigation,Pending
+AL100100,T901460,C10704,Repeated Failed Transaction,Medium,2026-05-14,Closed,Pending
+AL100101,T901471,C10017,Repeated Failed Transaction,Medium,2026-07-25,Under Investigation,Pending
+AL100102,T901475,C10034,Repeated Failed Transaction,Medium,2026-04-28,Closed,False Positive
+AL100103,T901479,C10150,Repeated Failed Transaction,Medium,2026-08-08,Escalated,No Issue
+AL100104,T901492,C10171,Repeated Failed Transaction,Medium,2026-05-13,Under Investigation,Confirmed Suspicious
+AL100105,T901530,C10376,Repeated Failed Transaction,Medium,2026-04-14,Escalated,Confirmed Suspicious
+AL100106,T901534,C10002,Dormant Account Activity,High,2026-04-11,Escalated,No Issue
+AL100107,T901535,C10931,Repeated Failed Transaction,Medium,2026-04-25,Under Investigation,False Positive
+AL100108,T901537,C10483,Repeated Failed Transaction,Medium,2026-08-06,Closed,False Positive
+AL100109,T901550,C10284,Repeated Failed Transaction,Medium,2026-07-23,Open,Confirmed Suspicious
+AL100110,T901554,C10870,Repeated Failed Transaction,Medium,2026-04-11,Closed,Confirmed Suspicious
+AL100111,T901556,C10072,Repeated Failed Transaction,Medium,2026-06-14,Open,Pending
+AL100112,T901564,C10717,Repeated Failed Transaction,Medium,2026-08-08,Under Investigation,Pending
+AL100113,T901568,C10712,Repeated Failed Transaction,Medium,2026-04-29,Open,False Positive
+AL100114,T901571,C10239,Repeated Failed Transaction,Medium,2026-08-18,Closed,No Issue
+AL100115,T901575,C10463,Repeated Failed Transaction,Medium,2026-06-11,Under Investigation,Confirmed Suspicious
+AL100116,T901577,C10701,Repeated Failed Transaction,Medium,2026-07-23,Escalated,Confirmed Suspicious
+AL100117,T901579,C10822,Repeated Failed Transaction,Medium,2026-09-14,Escalated,False Positive
+AL100118,T901580,C10872,Repeated Failed Transaction,Medium,2026-06-14,Closed,Pending
+AL100119,T901582,C10929,Repeated Failed Transaction,Medium,2026-08-14,Under Investigation,Confirmed Suspicious
+AL100120,T901587,C10213,Repeated Failed Transaction,Medium,2026-05-22,Closed,No Issue
+AL100121,T901606,C10329,Repeated Failed Transaction,Medium,2026-06-02,Under Investigation,Confirmed Suspicious
+AL100122,T901619,C10331,Repeated Failed Transaction,Medium,2026-06-15,Open,Confirmed Suspicious
+AL100123,T901629,C10978,Repeated Failed Transaction,Medium,2026-04-30,Open,False Positive
+AL100124,T901630,C10708,Repeated Failed Transaction,Medium,2026-04-12,Under Investigation,Pending
+AL100125,T901631,C10586,Repeated Failed Transaction,Medium,2026-05-11,Open,No Issue
+AL100126,T901658,C10668,Repeated Failed Transaction,Medium,2026-06-03,Under Investigation,Confirmed Suspicious
+AL100127,T901686,C10380,Repeated Failed Transaction,Medium,2026-07-21,Closed,False Positive
+AL100128,T901701,C10678,Repeated Failed Transaction,Medium,2026-05-13,Closed,Confirmed Suspicious
+AL100129,T901702,C10954,Repeated Failed Transaction,Medium,2026-06-12,Open,No Issue
+AL100130,T901720,C10018,Dormant Account Activity,High,2026-06-24,Escalated,No Issue
+AL100131,T901727,C10028,Repeated Failed Transaction,Medium,2026-04-18,Open,Pending
+AL100132,T901741,C10957,Repeated Failed Transaction,Medium,2026-06-20,Closed,False Positive
+AL100133,T901752,C10900,Repeated Failed Transaction,Medium,2026-07-06,Closed,Pending
+AL100134,T901758,C10863,Repeated Failed Transaction,Medium,2026-07-02,Open,Pending
+AL100135,T901759,C10980,Repeated Failed Transaction,Medium,2026-04-30,Under Investigation,Pending
+AL100136,T901761,C10048,Repeated Failed Transaction,Medium,2026-08-06,Closed,False Positive
+AL100137,T901772,C10139,Repeated Failed Transaction,Medium,2026-06-12,Under Investigation,No Issue
+AL100138,T901802,C10583,Repeated Failed Transaction,Medium,2026-08-02,Under Investigation,Pending
+AL100139,T901808,C10114,Repeated Failed Transaction,Medium,2026-07-12,Closed,Pending
+AL100140,T901819,C10533,Repeated Failed Transaction,Medium,2026-07-29,Closed,Confirmed Suspicious
+AL100141,T901827,C10986,Repeated Failed Transaction,Medium,2026-05-26,Closed,False Positive
+AL100142,T901850,C10055,Repeated Failed Transaction,Medium,2026-04-22,Escalated,Confirmed Suspicious
+AL100143,T901853,C10475,Repeated Failed Transaction,Medium,2026-08-08,Closed,No Issue
+AL100144,T901854,C10699,Repeated Failed Transaction,Medium,2026-09-06,Under Investigation,Confirmed Suspicious
+AL100145,T901855,C10659,Repeated Failed Transaction,Medium,2026-04-28,Under Investigation,False Positive
+AL100146,T901856,C10760,Repeated Failed Transaction,Medium,2026-09-17,Closed,Pending
+AL100147,T901871,C10153,Repeated Failed Transaction,Medium,2026-06-27,Under Investigation,No Issue
+AL100148,T901881,C10903,Repeated Failed Transaction,Medium,2026-09-26,Open,No Issue
+AL100149,T901904,C10806,Repeated Failed Transaction,Medium,2026-08-20,Open,Confirmed Suspicious
+AL100150,T901906,C10786,Repeated Failed Transaction,Medium,2026-09-22,Escalated,No Issue
+AL100151,T901921,C10018,Dormant Account Activity,High,2026-05-19,Closed,Confirmed Suspicious
+AL100152,T901955,C10470,Repeated Failed Transaction,Medium,2026-08-29,Closed,False Positive
+AL100153,T901969,C10838,Repeated Failed Transaction,Medium,2026-08-17,Open,False Positive
+AL100154,T901982,C10175,Repeated Failed Transaction,Medium,2026-07-06,Under Investigation,Confirmed Suspicious
+AL100155,T901994,C10468,Repeated Failed Transaction,Medium,2026-08-25,Under Investigation,False Positive
+AL100156,T902013,C10467,Repeated Failed Transaction,Medium,2026-07-09,Under Investigation,Confirmed Suspicious
+AL100157,T902016,C10017,Dormant Account Activity,High,2026-05-03,Under Investigation,False Positive
+AL100158,T902017,C10852,Repeated Failed Transaction,Medium,2026-08-12,Open,False Positive
+AL100159,T902021,C10005,Dormant Account Activity,High,2026-07-10,Escalated,Confirmed Suspicious
+AL100160,T902025,C10795,Repeated Failed Transaction,Medium,2026-08-23,Under Investigation,Pending
+AL100161,T902029,C10679,Repeated Failed Transaction,Medium,2026-05-18,Escalated,Pending
+AL100162,T902031,C10176,Repeated Failed Transaction,Medium,2026-08-19,Under Investigation,Pending
+AL100163,T902097,C10961,Repeated Failed Transaction,Medium,2026-06-20,Escalated,No Issue
+AL100164,T902101,C10017,Dormant Account Activity,High,2026-08-01,Closed,Confirmed Suspicious
+AL100165,T902105,C10101,Repeated Failed Transaction,Medium,2026-08-17,Under Investigation,False Positive
+AL100166,T902118,C10998,Repeated Failed Transaction,Medium,2026-09-12,Open,Confirmed Suspicious
+AL100167,T902134,C10199,Repeated Failed Transaction,Medium,2026-04-27,Closed,No Issue
+AL100168,T902148,C10689,Repeated Failed Transaction,Medium,2026-08-12,Closed,False Positive
+AL100169,T902158,C10010,Repeated Failed Transaction,Medium,2026-06-07,Under Investigation,Pending
+AL100170,T902200,C10056,Repeated Failed Transaction,Medium,2026-05-25,Closed,False Positive
+AL100171,T902216,C10466,Repeated Failed Transaction,Medium,2026-08-03,Closed,False Positive
+AL100172,T902251,C10715,Repeated Failed Transaction,Medium,2026-06-17,Under Investigation,Confirmed Suspicious
+AL100173,T902269,C10679,Repeated Failed Transaction,Medium,2026-07-11,Open,Confirmed Suspicious
+AL100174,T902294,C10898,Repeated Failed Transaction,Medium,2026-08-23,Open,Confirmed Suspicious
+AL100175,T902299,C10063,Repeated Failed Transaction,Medium,2026-05-15,Open,False Positive
+AL100176,T902314,C10126,Repeated Failed Transaction,Medium,2026-06-18,Under Investigation,No Issue
+AL100177,T902339,C10519,Repeated Failed Transaction,Medium,2026-09-11,Open,Pending
+AL100178,T902374,C10441,Repeated Failed Transaction,Medium,2026-07-11,Closed,False Positive
+AL100179,T902377,C10225,Repeated Failed Transaction,Medium,2026-06-18,Under Investigation,False Positive
+AL100180,T902379,C10696,Repeated Failed Transaction,Medium,2026-04-29,Escalated,No Issue
+AL100181,T902436,C10818,Repeated Failed Transaction,Medium,2026-08-10,Closed,No Issue
+AL100182,T902457,C10077,Repeated Failed Transaction,Medium,2026-04-26,Closed,Confirmed Suspicious
+AL100183,T902492,C10330,Repeated Failed Transaction,Medium,2026-05-21,Escalated,Confirmed Suspicious
+AL100184,T902505,C10137,Repeated Failed Transaction,Medium,2026-06-20,Escalated,Pending
+AL100185,T902524,C10235,Repeated Failed Transaction,Medium,2026-08-23,Closed,No Issue
+AL100186,T902526,C10925,Repeated Failed Transaction,Medium,2026-09-04,Escalated,False Positive
+AL100187,T902530,C10526,Repeated Failed Transaction,Medium,2026-07-06,Escalated,Confirmed Suspicious
+AL100188,T902542,C10213,Repeated Failed Transaction,Medium,2026-04-10,Under Investigation,False Positive
+AL100189,T902556,C10035,Repeated Failed Transaction,Medium,2026-05-18,Escalated,No Issue
+AL100190,T902568,C10387,Repeated Failed Transaction,Medium,2026-07-21,Open,False Positive
+AL100191,T902571,C10079,Repeated Failed Transaction,Medium,2026-09-03,Closed,Confirmed Suspicious
+AL100192,T902576,C10202,Repeated Failed Transaction,Medium,2026-08-06,Under Investigation,Pending
+AL100193,T902604,C10696,Repeated Failed Transaction,Medium,2026-08-11,Open,Confirmed Suspicious
+AL100194,T902609,C10012,Dormant Account Activity,High,2026-09-25,Open,No Issue
+AL100195,T902612,C10958,Repeated Failed Transaction,Medium,2026-07-27,Closed,Pending
+AL100196,T902619,C10076,Repeated Failed Transaction,Medium,2026-08-11,Escalated,Pending
+AL100197,T902623,C10139,Repeated Failed Transaction,Medium,2026-05-31,Open,Pending
+AL100198,T902644,C10149,Repeated Failed Transaction,Medium,2026-09-26,Under Investigation,False Positive
+AL100199,T902649,C10475,Repeated Failed Transaction,Medium,2026-08-08,Under Investigation,Pending
+AL100200,T902655,C10672,Repeated Failed Transaction,Medium,2026-08-16,Closed,Confirmed Suspicious
+AL100201,T902675,C10696,Repeated Failed Transaction,Medium,2026-07-03,Closed,Pending
+AL100202,T902695,C10872,Repeated Failed Transaction,Medium,2026-06-23,Under Investigation,Confirmed Suspicious
+AL100203,T902732,C10725,Repeated Failed Transaction,Medium,2026-04-19,Closed,False Positive
+AL100204,T902759,C10044,Repeated Failed Transaction,Medium,2026-04-10,Under Investigation,Confirmed Suspicious
+AL100205,T902760,C10068,Repeated Failed Transaction,Medium,2026-04-30,Under Investigation,False Positive
+AL100206,T902763,C10256,Repeated Failed Transaction,Medium,2026-04-24,Open,No Issue
+AL100207,T902766,C10830,Repeated Failed Transaction,Medium,2026-07-19,Closed,No Issue
+AL100208,T902783,C10311,Repeated Failed Transaction,Medium,2026-08-26,Open,No Issue
+AL100209,T902790,C10365,Repeated Failed Transaction,Medium,2026-06-10,Under Investigation,False Positive
+AL100210,T902804,C10002,Dormant Account Activity,High,2026-05-23,Closed,False Positive
+AL100211,T902808,C10920,Repeated Failed Transaction,Medium,2026-07-24,Closed,False Positive
+AL100212,T902810,C10810,Repeated Failed Transaction,Medium,2026-07-11,Closed,No Issue
+AL100213,T902813,C10576,Repeated Failed Transaction,Medium,2026-09-17,Open,No Issue
+AL100214,T902821,C10024,Repeated Failed Transaction,Medium,2026-06-01,Closed,No Issue
+AL100215,T902823,C10036,Repeated Failed Transaction,Medium,2026-07-15,Escalated,No Issue
+AL100216,T902846,C10249,Repeated Failed Transaction,Medium,2026-07-27,Under Investigation,Confirmed Suspicious
+AL100217,T902878,C10539,Repeated Failed Transaction,Medium,2026-05-08,Open,False Positive
+AL100218,T902896,C10980,Repeated Failed Transaction,Medium,2026-06-21,Escalated,Pending
+AL100219,T902901,C10197,Repeated Failed Transaction,Medium,2026-05-29,Closed,No Issue
+AL100220,T902912,C10122,Repeated Failed Transaction,Medium,2026-04-27,Under Investigation,False Positive
+AL100221,T902913,C10089,Repeated Failed Transaction,Medium,2026-09-21,Escalated,Pending
+AL100222,T902933,C10166,Repeated Failed Transaction,Medium,2026-09-28,Closed,No Issue
+AL100223,T902943,C10267,Repeated Failed Transaction,Medium,2026-07-15,Escalated,No Issue
+AL100224,T902954,C10814,Repeated Failed Transaction,Medium,2026-09-06,Escalated,False Positive
+AL100225,T902976,C10078,Repeated Failed Transaction,Medium,2026-04-14,Open,Pending
+AL100226,T902983,C10436,Repeated Failed Transaction,Medium,2026-06-14,Under Investigation,No Issue
+AL100227,T902994,C10102,Repeated Failed Transaction,Medium,2026-09-18,Under Investigation,No Issue
+AL100228,T903008,C10160,Repeated Failed Transaction,Medium,2026-04-08,Under Investigation,Pending
+AL100229,T903009,C10423,Repeated Failed Transaction,Medium,2026-04-02,Open,False Positive
+AL100230,T903015,C10224,Repeated Failed Transaction,Medium,2026-08-06,Open,Pending
+AL100231,T903026,C10952,Repeated Failed Transaction,Medium,2026-09-10,Open,No Issue
+AL100232,T903027,C10922,Repeated Failed Transaction,Medium,2026-04-05,Open,Pending
+AL100233,T903055,C10398,Repeated Failed Transaction,Medium,2026-08-07,Closed,No Issue
+AL100234,T903068,C10600,Repeated Failed Transaction,Medium,2026-08-08,Closed,Pending
+AL100235,T903075,C10573,Repeated Failed Transaction,Medium,2026-05-07,Open,No Issue
+AL100236,T903162,C10005,Dormant Account Activity,High,2026-04-06,Under Investigation,False Positive
+AL100237,T903182,C10369,Repeated Failed Transaction,Medium,2026-07-12,Open,False Positive
+AL100238,T903191,C10736,Repeated Failed Transaction,Medium,2026-09-23,Escalated,Pending
+AL100239,T903196,C10440,Repeated Failed Transaction,Medium,2026-09-09,Closed,No Issue
+AL100240,T903213,C10400,Repeated Failed Transaction,Medium,2026-09-05,Open,Pending
+AL100241,T903257,C10672,Repeated Failed Transaction,Medium,2026-07-05,Closed,Pending
+AL100242,T903298,C10319,Repeated Failed Transaction,Medium,2026-09-25,Closed,Confirmed Suspicious
+AL100243,T903303,C10146,Repeated Failed Transaction,Medium,2026-04-17,Escalated,Pending
+AL100244,T903312,C10319,Repeated Failed Transaction,Medium,2026-07-21,Open,Pending
+AL100245,T903331,C10572,Potential Structuring,High,2026-06-10,Closed,Confirmed Suspicious
+AL100246,T903362,C10229,Repeated Failed Transaction,Medium,2026-05-20,Under Investigation,Confirmed Suspicious
+AL100247,T903368,C10522,Repeated Failed Transaction,Medium,2026-09-20,Open,Confirmed Suspicious
+AL100248,T903374,C10920,Repeated Failed Transaction,Medium,2026-07-08,Closed,Confirmed Suspicious
+AL100249,T903382,C10558,Repeated Failed Transaction,Medium,2026-08-20,Open,Pending
+AL100250,T903408,C10411,Repeated Failed Transaction,Medium,2026-09-29,Closed,Pending
+AL100251,T903418,C10380,Repeated Failed Transaction,Medium,2026-06-25,Open,Confirmed Suspicious
+AL100252,T903427,C10156,Repeated Failed Transaction,Medium,2026-09-18,Escalated,Pending
+AL100253,T903479,C10472,Repeated Failed Transaction,Medium,2026-05-07,Under Investigation,False Positive
+AL100254,T903483,C10038,Repeated Failed Transaction,Medium,2026-05-09,Escalated,Confirmed Suspicious
+AL100255,T903489,C10187,Repeated Failed Transaction,Medium,2026-04-18,Escalated,False Positive
+AL100256,T903516,C10402,Repeated Failed Transaction,Medium,2026-07-28,Closed,Confirmed Suspicious
+AL100257,T903523,C10427,Repeated Failed Transaction,Medium,2026-04-14,Open,Pending
+AL100258,T903534,C10158,Repeated Failed Transaction,Medium,2026-07-20,Closed,No Issue
+AL100259,T903562,C10713,Repeated Failed Transaction,Medium,2026-04-14,Under Investigation,No Issue
+AL100260,T903565,C10072,Repeated Failed Transaction,Medium,2026-08-25,Under Investigation,Pending
+AL100261,T903587,C10565,Repeated Failed Transaction,Medium,2026-07-18,Closed,False Positive
+AL100262,T903591,C10714,Repeated Failed Transaction,Medium,2026-05-04,Under Investigation,No Issue
+AL100263,T903599,C10244,Repeated Failed Transaction,Medium,2026-08-06,Escalated,False Positive
+AL100264,T903617,C10186,Repeated Failed Transaction,Medium,2026-06-06,Open,Pending
+AL100265,T903625,C10757,Repeated Failed Transaction,Medium,2026-08-16,Escalated,False Positive
+AL100266,T903634,C10017,Dormant Account Activity,High,2026-07-26,Closed,False Positive
+AL100267,T903638,C10402,Repeated Failed Transaction,Medium,2026-04-11,Under Investigation,False Positive
+AL100268,T903646,C10559,Repeated Failed Transaction,Medium,2026-07-29,Open,False Positive
+AL100269,T903662,C10886,Repeated Failed Transaction,Medium,2026-04-20,Under Investigation,No Issue
+AL100270,T903663,C10404,Repeated Failed Transaction,Medium,2026-05-24,Escalated,Confirmed Suspicious
+AL100271,T903694,C10613,Repeated Failed Transaction,Medium,2026-04-18,Closed,False Positive
+AL100272,T903710,C10525,Repeated Failed Transaction,Medium,2026-05-19,Open,No Issue
+AL100273,T903757,C10972,Repeated Failed Transaction,Medium,2026-08-02,Closed,No Issue
+AL100274,T903779,C10436,Repeated Failed Transaction,Medium,2026-07-10,Escalated,False Positive
+AL100275,T903780,C10427,Repeated Failed Transaction,Medium,2026-06-18,Escalated,False Positive
+AL100276,T903784,C10064,Repeated Failed Transaction,Medium,2026-06-26,Open,False Positive
+AL100277,T903787,C10169,Repeated Failed Transaction,Medium,2026-05-23,Closed,No Issue
+AL100278,T903811,C10180,Repeated Failed Transaction,Medium,2026-08-19,Escalated,Confirmed Suspicious
+AL100279,T903844,C10297,Repeated Failed Transaction,Medium,2026-08-30,Escalated,Confirmed Suspicious
+AL100280,T903858,C10025,Repeated Failed Transaction,Medium,2026-07-15,Under Investigation,Confirmed Suspicious
+AL100281,T903861,C10813,Repeated Failed Transaction,Medium,2026-05-14,Under Investigation,False Positive
+AL100282,T903863,C10400,Repeated Failed Transaction,Medium,2026-08-18,Under Investigation,No Issue
+AL100283,T903877,C10204,Repeated Failed Transaction,Medium,2026-06-24,Under Investigation,False Positive
+AL100284,T903879,C10693,Repeated Failed Transaction,Medium,2026-05-13,Closed,Confirmed Suspicious
+AL100285,T903893,C10407,Repeated Failed Transaction,Medium,2026-06-07,Escalated,Pending
+AL100286,T903900,C10412,Repeated Failed Transaction,Medium,2026-04-04,Under Investigation,Confirmed Suspicious
+AL100287,T903916,C10012,Repeated Failed Transaction,Medium,2026-08-12,Open,No Issue
+AL100288,T903929,C10745,Repeated Failed Transaction,Medium,2026-04-27,Escalated,No Issue
+AL100289,T903932,C10449,Repeated Failed Transaction,Medium,2026-05-19,Escalated,Pending
+AL100290,T903933,C10366,Repeated Failed Transaction,Medium,2026-09-26,Under Investigation,Pending
+AL100291,T903938,C10379,Repeated Failed Transaction,Medium,2026-05-30,Closed,Pending
+AL100292,T903969,C10254,Repeated Failed Transaction,Medium,2026-06-22,Closed,Pending
+AL100293,T903980,C10730,Repeated Failed Transaction,Medium,2026-04-09,Under Investigation,Confirmed Suspicious
+AL100294,T904073,C10061,Repeated Failed Transaction,Medium,2026-04-26,Open,Pending
+AL100295,T904084,C10905,Repeated Failed Transaction,Medium,2026-05-05,Open,False Positive
+AL100296,T904105,C10226,Repeated Failed Transaction,Medium,2026-05-04,Open,Pending
+AL100297,T904126,C10138,Repeated Failed Transaction,Medium,2026-04-08,Closed,Pending
+AL100298,T904137,C10540,Repeated Failed Transaction,Medium,2026-04-26,Open,No Issue
+AL100299,T904143,C10044,Repeated Failed Transaction,Medium,2026-07-09,Closed,Confirmed Suspicious
+AL100300,T904152,C10437,Repeated Failed Transaction,Medium,2026-04-18,Open,Pending
+AL100301,T904195,C10201,Repeated Failed Transaction,Medium,2026-05-12,Closed,False Positive
+AL100302,T904197,C10407,Repeated Failed Transaction,Medium,2026-06-23,Open,False Positive
+AL100303,T904208,C10539,Repeated Failed Transaction,Medium,2026-08-17,Open,Pending
+AL100304,T904214,C10427,Repeated Failed Transaction,Medium,2026-06-13,Open,Confirmed Suspicious
+AL100305,T904242,C10493,Repeated Failed Transaction,Medium,2026-08-02,Open,False Positive
+AL100306,T904249,C10565,Repeated Failed Transaction,Medium,2026-06-13,Closed,No Issue
+AL100307,T904271,C10110,Repeated Failed Transaction,Medium,2026-07-12,Open,No Issue
+AL100308,T904280,C10828,Repeated Failed Transaction,Medium,2026-07-22,Under Investigation,Confirmed Suspicious
+AL100309,T904293,C10924,Repeated Failed Transaction,Medium,2026-06-08,Escalated,Confirmed Suspicious
+AL100310,T904302,C10149,Repeated Failed Transaction,Medium,2026-04-25,Closed,No Issue
+AL100311,T904336,C10018,Dormant Account Activity,High,2026-05-29,Closed,Confirmed Suspicious
+AL100312,T904362,C10768,Repeated Failed Transaction,Medium,2026-05-24,Closed,Confirmed Suspicious
+AL100313,T904381,C10359,Repeated Failed Transaction,Medium,2026-08-16,Open,False Positive
+AL100314,T904403,C10708,Repeated Failed Transaction,Medium,2026-08-31,Escalated,False Positive
+AL100315,T904411,C10965,Repeated Failed Transaction,Medium,2026-05-13,Open,No Issue
+AL100316,T904414,C10027,Repeated Failed Transaction,Medium,2026-05-27,Closed,False Positive
+AL100317,T904424,C10469,Repeated Failed Transaction,Medium,2026-09-04,Open,False Positive
+AL100318,T904428,C10862,Repeated Failed Transaction,Medium,2026-04-26,Under Investigation,Pending
+AL100319,T904432,C10113,Repeated Failed Transaction,Medium,2026-06-27,Open,Pending
+AL100320,T904437,C10221,Repeated Failed Transaction,Medium,2026-04-02,Escalated,False Positive
+AL100321,T904464,C10217,Repeated Failed Transaction,Medium,2026-04-03,Open,No Issue
+AL100322,T904466,C10613,Repeated Failed Transaction,Medium,2026-08-16,Under Investigation,Pending
+AL100323,T904499,C10033,Repeated Failed Transaction,Medium,2026-05-30,Open,False Positive
+AL100324,T904524,C10676,Repeated Failed Transaction,Medium,2026-07-20,Open,Confirmed Suspicious
+AL100325,T904587,C10682,Repeated Failed Transaction,Medium,2026-09-04,Open,Pending
+AL100326,T904591,C10354,Repeated Failed Transaction,Medium,2026-05-07,Escalated,Confirmed Suspicious
+AL100327,T904595,C10702,Repeated Failed Transaction,Medium,2026-06-14,Open,No Issue
+AL100328,T904602,C10505,Repeated Failed Transaction,Medium,2026-04-25,Closed,False Positive
+AL100329,T904621,C10576,Repeated Failed Transaction,Medium,2026-04-06,Escalated,False Positive
+AL100330,T904663,C10787,Repeated Failed Transaction,Medium,2026-06-23,Open,Pending
+AL100331,T904677,C10962,Repeated Failed Transaction,Medium,2026-07-19,Open,Pending
+AL100332,T904683,C10116,Repeated Failed Transaction,Medium,2026-05-10,Closed,False Positive
+AL100333,T904733,C10459,Repeated Failed Transaction,Medium,2026-06-20,Escalated,Confirmed Suspicious
+AL100334,T904758,C10319,Repeated Failed Transaction,Medium,2026-09-16,Escalated,Pending
+AL100335,T904762,C10035,Repeated Failed Transaction,Medium,2026-08-22,Under Investigation,False Positive
+AL100336,T904801,C10552,Repeated Failed Transaction,Medium,2026-05-11,Open,False Positive
+AL100337,T904812,C10607,Repeated Failed Transaction,Medium,2026-05-25,Escalated,Pending
+AL100338,T904813,C10002,Dormant Account Activity,High,2026-04-21,Closed,Confirmed Suspicious
+AL100339,T904819,C10169,Repeated Failed Transaction,Medium,2026-09-17,Closed,No Issue
+AL100340,T904820,C10287,Repeated Failed Transaction,Medium,2026-06-14,Escalated,False Positive
+AL100341,T904821,C10560,Repeated Failed Transaction,Medium,2026-05-26,Closed,Pending
+AL100342,T904825,C10511,Repeated Failed Transaction,Medium,2026-05-15,Escalated,Confirmed Suspicious
+AL100343,T904844,C10300,Repeated Failed Transaction,Medium,2026-06-20,Escalated,Confirmed Suspicious
+AL100344,T904861,C10240,Repeated Failed Transaction,Medium,2026-07-30,Open,Confirmed Suspicious
+AL100345,T904862,C10929,Repeated Failed Transaction,Medium,2026-07-05,Escalated,Confirmed Suspicious
+AL100346,T904881,C10005,Dormant Account Activity,High,2026-07-06,Open,Pending
+AL100347,T904884,C10724,Repeated Failed Transaction,Medium,2026-04-25,Closed,False Positive
+AL100348,T904900,C10554,Repeated Failed Transaction,Medium,2026-09-18,Escalated,Pending
+AL100349,T904946,C10293,Repeated Failed Transaction,Medium,2026-08-04,Escalated,Confirmed Suspicious
+AL100350,T904962,C10770,Repeated Failed Transaction,Medium,2026-07-31,Closed,Confirmed Suspicious
+AL100351,T904989,C10100,Repeated Failed Transaction,Medium,2026-08-13,Closed,Confirmed Suspicious
+AL100352,T905012,C10420,Repeated Failed Transaction,Medium,2026-06-22,Closed,False Positive
+AL100353,T905047,C10137,Repeated Failed Transaction,Medium,2026-09-05,Escalated,Confirmed Suspicious
+AL100354,T905051,C10756,Repeated Failed Transaction,Medium,2026-09-15,Closed,Pending
+AL100355,T905057,C10581,Repeated Failed Transaction,Medium,2026-04-09,Escalated,No Issue
+AL100356,T905069,C10157,Repeated Failed Transaction,Medium,2026-04-11,Open,False Positive
+AL100357,T905070,C10796,Repeated Failed Transaction,Medium,2026-08-03,Closed,Confirmed Suspicious
+AL100358,T905087,C10371,Repeated Failed Transaction,Medium,2026-06-19,Closed,Pending
+AL100359,T905088,C10055,Repeated Failed Transaction,Medium,2026-05-10,Escalated,False Positive
+AL100360,T905096,C10149,Repeated Failed Transaction,Medium,2026-08-07,Escalated,Confirmed Suspicious
+AL100361,T905097,C10797,Repeated Failed Transaction,Medium,2026-06-24,Under Investigation,Confirmed Suspicious
+AL100362,T905101,C10475,Repeated Failed Transaction,Medium,2026-05-04,Under Investigation,Pending
+AL100363,T905108,C10011,Repeated Failed Transaction,Medium,2026-05-27,Open,Pending
+AL100364,T905111,C10012,Dormant Account Activity,High,2026-05-28,Escalated,Confirmed Suspicious
+AL100365,T905128,C10162,Repeated Failed Transaction,Medium,2026-07-15,Closed,Pending
+AL100366,T905129,C10418,Repeated Failed Transaction,Medium,2026-09-07,Escalated,No Issue
+AL100367,T905135,C10907,Repeated Failed Transaction,Medium,2026-05-11,Under Investigation,Confirmed Suspicious
+AL100368,T905136,C10947,Repeated Failed Transaction,Medium,2026-05-09,Closed,Pending
+AL100369,T905137,C10417,Repeated Failed Transaction,Medium,2026-06-03,Open,False Positive
+AL100370,T905139,C10942,Repeated Failed Transaction,Medium,2026-08-17,Closed,No Issue
+AL100371,T905143,C10530,Repeated Failed Transaction,Medium,2026-08-02,Under Investigation,Pending
+AL100372,T905160,C10491,Repeated Failed Transaction,Medium,2026-07-12,Open,No Issue
+AL100373,T905164,C10007,Repeated Failed Transaction,Medium,2026-05-29,Escalated,Pending
+AL100374,T905170,C10392,Repeated Failed Transaction,Medium,2026-06-05,Under Investigation,Confirmed Suspicious
+AL100375,T905177,C10936,Repeated Failed Transaction,Medium,2026-07-29,Under Investigation,Pending
+AL100376,T905178,C10777,Repeated Failed Transaction,Medium,2026-07-01,Escalated,Pending
+AL100377,T905195,C10595,Repeated Failed Transaction,Medium,2026-07-09,Open,No Issue
+AL100378,T905200,C10616,Repeated Failed Transaction,Medium,2026-08-04,Escalated,No Issue
+AL100379,T905258,C10145,Repeated Failed Transaction,Medium,2026-06-29,Under Investigation,Pending
+AL100380,T905266,C10017,Dormant Account Activity,High,2026-09-15,Closed,Pending
+AL100381,T905273,C10974,Repeated Failed Transaction,Medium,2026-06-07,Closed,Confirmed Suspicious
+AL100382,T905308,C10782,Repeated Failed Transaction,Medium,2026-06-21,Closed,No Issue
+AL100383,T905325,C10393,Repeated Failed Transaction,Medium,2026-09-09,Closed,No Issue
+AL100384,T905341,C10559,Repeated Failed Transaction,Medium,2026-05-12,Open,Confirmed Suspicious
+AL100385,T905353,C10776,Repeated Failed Transaction,Medium,2026-09-25,Escalated,No Issue
+AL100386,T905358,C10337,Repeated Failed Transaction,Medium,2026-04-16,Closed,Confirmed Suspicious
+AL100387,T905359,C10094,Repeated Failed Transaction,Medium,2026-05-07,Closed,Confirmed Suspicious
+AL100388,T905364,C10787,Repeated Failed Transaction,Medium,2026-07-08,Escalated,Confirmed Suspicious
+AL100389,T905380,C10532,Repeated Failed Transaction,Medium,2026-08-10,Escalated,Confirmed Suspicious
+AL100390,T905399,C10163,Repeated Failed Transaction,Medium,2026-06-06,Open,False Positive
+AL100391,T905408,C10318,Repeated Failed Transaction,Medium,2026-08-05,Open,No Issue
+AL100392,T905418,C10791,Repeated Failed Transaction,Medium,2026-05-17,Open,Pending
+AL100393,T905424,C10242,Repeated Failed Transaction,Medium,2026-05-08,Closed,Confirmed Suspicious
+AL100394,T905430,C10880,Repeated Failed Transaction,Medium,2026-07-02,Closed,Confirmed Suspicious
+AL100395,T905446,C10081,Repeated Failed Transaction,Medium,2026-04-25,Escalated,Pending
+AL100396,T905448,C10597,Repeated Failed Transaction,Medium,2026-09-23,Closed,Pending
+AL100397,T905464,C10725,Repeated Failed Transaction,Medium,2026-05-07,Open,False Positive
+AL100398,T905491,C10116,Repeated Failed Transaction,Medium,2026-08-16,Closed,No Issue
+AL100399,T905494,C10687,Repeated Failed Transaction,Medium,2026-05-15,Escalated,False Positive
+AL100400,T905517,C10715,Repeated Failed Transaction,Medium,2026-09-15,Open,False Positive
+AL100401,T905546,C10061,Repeated Failed Transaction,Medium,2026-06-27,Closed,Confirmed Suspicious
+AL100402,T905550,C10369,Repeated Failed Transaction,Medium,2026-04-21,Escalated,No Issue
+AL100403,T905552,C10355,Repeated Failed Transaction,Medium,2026-04-03,Open,False Positive
+AL100404,T905561,C10997,Repeated Failed Transaction,Medium,2026-06-02,Open,No Issue
+AL100405,T905577,C10301,Repeated Failed Transaction,Medium,2026-05-22,Open,Confirmed Suspicious
+AL100406,T905579,C10708,Repeated Failed Transaction,Medium,2026-05-25,Escalated,Confirmed Suspicious
+AL100407,T905583,C10559,Repeated Failed Transaction,Medium,2026-04-28,Open,No Issue
+AL100408,T905584,C10991,Repeated Failed Transaction,Medium,2026-04-10,Escalated,Pending
+AL100409,T905591,C10109,Repeated Failed Transaction,Medium,2026-05-05,Escalated,Confirmed Suspicious
+AL100410,T905592,C10093,Repeated Failed Transaction,Medium,2026-05-19,Open,Pending
+AL100411,T905599,C10910,Repeated Failed Transaction,Medium,2026-08-24,Under Investigation,Pending
+AL100412,T905600,C10887,Repeated Failed Transaction,Medium,2026-09-24,Under Investigation,No Issue
+AL100413,T905606,C10988,Repeated Failed Transaction,Medium,2026-05-25,Open,Pending
+AL100414,T905660,C10242,Repeated Failed Transaction,Medium,2026-05-25,Open,Pending
+AL100415,T905680,C10688,Repeated Failed Transaction,Medium,2026-06-13,Open,No Issue
+AL100416,T905712,C10962,Repeated Failed Transaction,Medium,2026-09-26,Escalated,No Issue
+AL100417,T905716,C10884,Repeated Failed Transaction,Medium,2026-06-11,Escalated,No Issue
+AL100418,T905728,C10572,Repeated Failed Transaction,Medium,2026-08-24,Closed,Confirmed Suspicious
+AL100419,T905739,C10111,Repeated Failed Transaction,Medium,2026-09-27,Closed,Pending
+AL100420,T905740,C10106,Repeated Failed Transaction,Medium,2026-04-10,Under Investigation,Pending
+AL100421,T905745,C10798,Repeated Failed Transaction,Medium,2026-05-01,Under Investigation,No Issue
+AL100422,T905770,C10947,Repeated Failed Transaction,Medium,2026-07-24,Escalated,False Positive
+AL100423,T905809,C10974,Repeated Failed Transaction,Medium,2026-09-18,Open,False Positive
+AL100424,T905838,C10601,Repeated Failed Transaction,Medium,2026-08-04,Under Investigation,Confirmed Suspicious
+AL100425,T905840,C10231,Repeated Failed Transaction,Medium,2026-04-27,Escalated,No Issue
+AL100426,T905847,C10027,Repeated Failed Transaction,Medium,2026-08-26,Closed,Pending
+AL100427,T905877,C10443,Repeated Failed Transaction,Medium,2026-05-10,Open,Confirmed Suspicious
+AL100428,T905899,C10551,Repeated Failed Transaction,Medium,2026-04-13,Open,Pending
+AL100429,T905924,C10315,Repeated Failed Transaction,Medium,2026-07-28,Under Investigation,Confirmed Suspicious
+AL100430,T905926,C10654,Repeated Failed Transaction,Medium,2026-08-20,Escalated,Confirmed Suspicious
+AL100431,T905947,C10728,Repeated Failed Transaction,Medium,2026-04-06,Escalated,Pending
+AL100432,T905960,C10670,Repeated Failed Transaction,Medium,2026-09-23,Closed,Pending
+AL100433,T905972,C10328,Repeated Failed Transaction,Medium,2026-08-20,Under Investigation,Confirmed Suspicious
+AL100434,T905990,C10012,Dormant Account Activity,High,2026-07-06,Under Investigation,False Positive
+AL100435,T906007,C10567,Repeated Failed Transaction,Medium,2026-05-27,Open,Pending
+AL100436,T906010,C10950,Repeated Failed Transaction,Medium,2026-04-13,Closed,No Issue
+AL100437,T906020,C10539,Repeated Failed Transaction,Medium,2026-06-05,Escalated,No Issue
+AL100438,T906032,C10951,Repeated Failed Transaction,Medium,2026-04-04,Under Investigation,Confirmed Suspicious
+AL100439,T906037,C10870,Repeated Failed Transaction,Medium,2026-04-23,Open,No Issue
+AL100440,T906044,C10305,Repeated Failed Transaction,Medium,2026-08-28,Escalated,Pending
+AL100441,T906057,C10339,Repeated Failed Transaction,Medium,2026-06-26,Escalated,Pending
+AL100442,T906115,C10430,Repeated Failed Transaction,Medium,2026-07-16,Open,No Issue
+AL100443,T906154,C10359,Repeated Failed Transaction,Medium,2026-06-26,Open,Pending
+AL100444,T906158,C10218,Repeated Failed Transaction,Medium,2026-08-05,Escalated,Pending
+AL100445,T906174,C10587,Repeated Failed Transaction,Medium,2026-07-29,Under Investigation,Confirmed Suspicious
+AL100446,T906178,C10017,Dormant Account Activity,High,2026-06-23,Under Investigation,Confirmed Suspicious
+AL100447,T906181,C10418,Repeated Failed Transaction,Medium,2026-08-01,Open,Confirmed Suspicious
+AL100448,T906194,C10617,Repeated Failed Transaction,Medium,2026-04-07,Open,Pending
+AL100449,T906197,C10361,Repeated Failed Transaction,Medium,2026-08-22,Escalated,Confirmed Suspicious
+AL100450,T906200,C10666,Repeated Failed Transaction,Medium,2026-05-05,Escalated,Pending
+AL100451,T906204,C10960,Repeated Failed Transaction,Medium,2026-04-29,Escalated,Confirmed Suspicious
+AL100452,T906242,C10404,Repeated Failed Transaction,Medium,2026-09-26,Open,False Positive
+AL100453,T906251,C10856,Repeated Failed Transaction,Medium,2026-04-12,Open,False Positive
+AL100454,T906262,C10830,Repeated Failed Transaction,Medium,2026-05-18,Escalated,False Positive
+AL100455,T906264,C10042,Repeated Failed Transaction,Medium,2026-06-05,Under Investigation,No Issue
+AL100456,T906275,C10420,Repeated Failed Transaction,Medium,2026-04-07,Escalated,Pending
+AL100457,T906279,C10446,Repeated Failed Transaction,Medium,2026-04-02,Under Investigation,Pending
+AL100458,T906295,C10656,Repeated Failed Transaction,Medium,2026-04-20,Closed,Pending
+AL100459,T906302,C10993,Repeated Failed Transaction,Medium,2026-04-18,Under Investigation,Pending
+AL100460,T906308,C10828,Repeated Failed Transaction,Medium,2026-06-21,Closed,False Positive
+AL100461,T906337,C10530,Repeated Failed Transaction,Medium,2026-05-22,Closed,Confirmed Suspicious
+AL100462,T906342,C10117,Repeated Failed Transaction,Medium,2026-07-23,Closed,False Positive
+AL100463,T906357,C10402,Repeated Failed Transaction,Medium,2026-07-19,Closed,No Issue
+AL100464,T906388,C10404,Repeated Failed Transaction,Medium,2026-04-02,Closed,No Issue
+AL100465,T906390,C10836,Repeated Failed Transaction,Medium,2026-09-05,Escalated,False Positive
+AL100466,T906395,C10745,Repeated Failed Transaction,Medium,2026-09-27,Open,Confirmed Suspicious
+AL100467,T906399,C10150,Repeated Failed Transaction,Medium,2026-09-21,Open,Confirmed Suspicious
+AL100468,T906423,C10018,Repeated Failed Transaction,Medium,2026-04-09,Open,False Positive
+AL100469,T906437,C10808,Repeated Failed Transaction,Medium,2026-09-25,Open,False Positive
+AL100470,T906445,C10416,Repeated Failed Transaction,Medium,2026-06-28,Closed,No Issue
+AL100471,T906467,C10212,Repeated Failed Transaction,Medium,2026-09-21,Under Investigation,No Issue
+AL100472,T906482,C10258,Repeated Failed Transaction,Medium,2026-08-31,Under Investigation,Confirmed Suspicious
+AL100473,T906509,C10813,Repeated Failed Transaction,Medium,2026-06-10,Under Investigation,No Issue
+AL100474,T906512,C10309,Repeated Failed Transaction,Medium,2026-07-08,Closed,False Positive
+AL100475,T906513,C10677,Repeated Failed Transaction,Medium,2026-04-03,Escalated,Confirmed Suspicious
+AL100476,T906522,C10920,Repeated Failed Transaction,Medium,2026-06-28,Escalated,Confirmed Suspicious
+AL100477,T906524,C10550,Repeated Failed Transaction,Medium,2026-07-14,Escalated,No Issue
+AL100478,T906533,C10146,Repeated Failed Transaction,Medium,2026-06-04,Escalated,False Positive
+AL100479,T906567,C10591,Repeated Failed Transaction,Medium,2026-08-08,Under Investigation,Pending
+AL100480,T906582,C10451,Repeated Failed Transaction,Medium,2026-08-19,Open,No Issue
+AL100481,T906647,C10357,Repeated Failed Transaction,Medium,2026-07-17,Under Investigation,False Positive
+AL100482,T906651,C10940,Repeated Failed Transaction,Medium,2026-05-01,Closed,Confirmed Suspicious
+AL100483,T906654,C10481,Repeated Failed Transaction,Medium,2026-09-08,Closed,False Positive
+AL100484,T906668,C10000,Repeated Failed Transaction,Medium,2026-07-05,Open,Pending
+AL100485,T906669,C10730,Repeated Failed Transaction,Medium,2026-04-29,Escalated,No Issue
+AL100486,T906689,C10928,Repeated Failed Transaction,Medium,2026-05-06,Escalated,False Positive
+AL100487,T906731,C10838,Repeated Failed Transaction,Medium,2026-09-01,Closed,False Positive
+AL100488,T906732,C10295,Repeated Failed Transaction,Medium,2026-07-17,Closed,Pending
+AL100489,T906735,C10527,Repeated Failed Transaction,Medium,2026-08-30,Open,Confirmed Suspicious
+AL100490,T906743,C10153,Repeated Failed Transaction,Medium,2026-06-11,Open,No Issue
+AL100491,T906777,C10875,Repeated Failed Transaction,Medium,2026-04-11,Escalated,No Issue
+AL100492,T906782,C10296,Repeated Failed Transaction,Medium,2026-07-26,Under Investigation,No Issue
+AL100493,T906829,C10006,Repeated Failed Transaction,Medium,2026-05-20,Open,Confirmed Suspicious
+AL100494,T906858,C10815,Repeated Failed Transaction,Medium,2026-09-19,Escalated,Pending
+AL100495,T906876,C10859,Repeated Failed Transaction,Medium,2026-06-22,Escalated,False Positive
+AL100496,T906894,C10487,Repeated Failed Transaction,Medium,2026-09-08,Open,Confirmed Suspicious
+AL100497,T906900,C10824,Repeated Failed Transaction,Medium,2026-07-08,Under Investigation,No Issue
+AL100498,T906909,C10012,Dormant Account Activity,High,2026-05-30,Open,Pending
+AL100499,T906913,C10711,Repeated Failed Transaction,Medium,2026-07-17,Open,Pending
+AL100500,T906934,C10154,Repeated Failed Transaction,Medium,2026-05-24,Under Investigation,Confirmed Suspicious
+AL100501,T906965,C10640,Repeated Failed Transaction,Medium,2026-07-24,Under Investigation,Confirmed Suspicious
+AL100502,T906968,C10264,Repeated Failed Transaction,Medium,2026-07-17,Under Investigation,Confirmed Suspicious
+AL100503,T906992,C10677,Repeated Failed Transaction,Medium,2026-08-30,Closed,False Positive
+AL100504,T907002,C10481,Repeated Failed Transaction,Medium,2026-09-23,Escalated,No Issue
+AL100505,T907034,C10313,Repeated Failed Transaction,Medium,2026-09-15,Under Investigation,Confirmed Suspicious
+AL100506,T907047,C10660,Repeated Failed Transaction,Medium,2026-04-17,Escalated,False Positive
+AL100507,T907056,C10890,Repeated Failed Transaction,Medium,2026-07-29,Under Investigation,Confirmed Suspicious
+AL100508,T907069,C10002,Dormant Account Activity,High,2026-05-16,Escalated,No Issue
+AL100509,T907070,C10534,Repeated Failed Transaction,Medium,2026-05-15,Closed,No Issue
+AL100510,T907073,C10369,Repeated Failed Transaction,Medium,2026-04-21,Open,No Issue
+AL100511,T907083,C10948,Repeated Failed Transaction,Medium,2026-06-25,Escalated,Confirmed Suspicious
+AL100512,T907090,C10366,Repeated Failed Transaction,Medium,2026-09-25,Closed,No Issue
+AL100513,T907093,C10235,Repeated Failed Transaction,Medium,2026-04-07,Under Investigation,Pending
+AL100514,T907139,C10023,Repeated Failed Transaction,Medium,2026-07-13,Escalated,False Positive
+AL100515,T907167,C10152,Repeated Failed Transaction,Medium,2026-08-03,Escalated,No Issue
+AL100516,T907170,C10430,Repeated Failed Transaction,Medium,2026-05-26,Under Investigation,False Positive
+AL100517,T907178,C10276,Repeated Failed Transaction,Medium,2026-06-13,Open,No Issue
+AL100518,T907188,C10765,Repeated Failed Transaction,Medium,2026-05-21,Escalated,Confirmed Suspicious
+AL100519,T907205,C10471,Repeated Failed Transaction,Medium,2026-07-04,Escalated,No Issue
+AL100520,T907226,C10411,Repeated Failed Transaction,Medium,2026-05-30,Under Investigation,False Positive
+AL100521,T907257,C10500,Repeated Failed Transaction,Medium,2026-06-28,Under Investigation,Confirmed Suspicious
+AL100522,T907266,C10575,Repeated Failed Transaction,Medium,2026-07-08,Escalated,Confirmed Suspicious
+AL100523,T907309,C10361,Repeated Failed Transaction,Medium,2026-04-20,Open,False Positive
+AL100524,T907318,C10825,Repeated Failed Transaction,Medium,2026-04-26,Under Investigation,False Positive
+AL100525,T907322,C10274,Repeated Failed Transaction,Medium,2026-09-18,Escalated,Pending
+AL100526,T907337,C10068,Repeated Failed Transaction,Medium,2026-08-04,Open,Confirmed Suspicious
+AL100527,T907361,C10291,Repeated Failed Transaction,Medium,2026-06-21,Closed,No Issue
+AL100528,T907367,C10348,Repeated Failed Transaction,Medium,2026-07-11,Escalated,Confirmed Suspicious
+AL100529,T907374,C10980,Repeated Failed Transaction,Medium,2026-05-13,Closed,No Issue
+AL100530,T907379,C10636,Repeated Failed Transaction,Medium,2026-08-31,Under Investigation,No Issue
+AL100531,T907382,C10107,Repeated Failed Transaction,Medium,2026-07-08,Escalated,False Positive
+AL100532,T907400,C10382,Repeated Failed Transaction,Medium,2026-05-28,Closed,Pending
+AL100533,T907401,C10365,Repeated Failed Transaction,Medium,2026-07-02,Escalated,Confirmed Suspicious
+AL100534,T907411,C10648,Repeated Failed Transaction,Medium,2026-06-16,Closed,Confirmed Suspicious
+AL100535,T907430,C10737,Repeated Failed Transaction,Medium,2026-06-03,Open,Pending
+AL100536,T907442,C10326,Repeated Failed Transaction,Medium,2026-07-10,Escalated,No Issue
+AL100537,T907470,C10877,Repeated Failed Transaction,Medium,2026-09-09,Escalated,False Positive
+AL100538,T907482,C10934,Repeated Failed Transaction,Medium,2026-05-19,Closed,No Issue
+AL100539,T907484,C10770,Repeated Failed Transaction,Medium,2026-09-13,Under Investigation,False Positive
+AL100540,T907490,C10009,Repeated Failed Transaction,Medium,2026-07-07,Escalated,No Issue
+AL100541,T907525,C10387,Repeated Failed Transaction,Medium,2026-09-16,Under Investigation,No Issue
+AL100542,T907548,C10157,Repeated Failed Transaction,Medium,2026-07-25,Closed,Confirmed Suspicious
+AL100543,T907550,C10886,Repeated Failed Transaction,Medium,2026-09-01,Closed,Confirmed Suspicious
+AL100544,T907573,C10894,Repeated Failed Transaction,Medium,2026-07-11,Open,Confirmed Suspicious
+AL100545,T907577,C10954,Repeated Failed Transaction,Medium,2026-06-28,Escalated,False Positive
+AL100546,T907578,C10155,Repeated Failed Transaction,Medium,2026-06-06,Closed,False Positive
+AL100547,T907579,C10280,Repeated Failed Transaction,Medium,2026-04-13,Closed,Pending
+AL100548,T907611,C10522,Repeated Failed Transaction,Medium,2026-08-08,Closed,No Issue
+AL100549,T907620,C10834,Repeated Failed Transaction,Medium,2026-04-27,Escalated,Pending
+AL100550,T907623,C10004,Repeated Failed Transaction,Medium,2026-08-30,Under Investigation,False Positive
+AL100551,T907625,C10110,Repeated Failed Transaction,Medium,2026-08-19,Escalated,Confirmed Suspicious
+AL100552,T907634,C10727,Repeated Failed Transaction,Medium,2026-06-01,Closed,Pending
+AL100553,T907641,C10106,Repeated Failed Transaction,Medium,2026-04-01,Escalated,False Positive
+AL100554,T907691,C10851,Repeated Failed Transaction,Medium,2026-05-06,Escalated,Confirmed Suspicious
+AL100555,T907829,C10534,Repeated Failed Transaction,Medium,2026-04-06,Open,No Issue
+AL100556,T907845,C10993,Repeated Failed Transaction,Medium,2026-06-18,Escalated,Confirmed Suspicious
+AL100557,T907851,C10591,Repeated Failed Transaction,Medium,2026-09-23,Closed,False Positive
+AL100558,T907869,C10142,Repeated Failed Transaction,Medium,2026-07-27,Under Investigation,False Positive
+AL100559,T907871,C10624,Repeated Failed Transaction,Medium,2026-09-17,Closed,Confirmed Suspicious
+AL100560,T907874,C10056,Repeated Failed Transaction,Medium,2026-06-17,Escalated,Pending
+AL100561,T907879,C10507,Repeated Failed Transaction,Medium,2026-07-25,Under Investigation,Pending
+AL100562,T907917,C10519,Repeated Failed Transaction,Medium,2026-09-25,Closed,No Issue
+AL100563,T907937,C10668,Repeated Failed Transaction,Medium,2026-05-16,Under Investigation,False Positive
+AL100564,T907947,C10168,Repeated Failed Transaction,Medium,2026-09-03,Open,Pending
+AL100565,T907962,C10591,Repeated Failed Transaction,Medium,2026-05-16,Escalated,No Issue
+AL100566,T907969,C10003,Repeated Failed Transaction,Medium,2026-08-11,Under Investigation,Confirmed Suspicious
+AL100567,T907986,C10604,Repeated Failed Transaction,Medium,2026-07-19,Closed,Pending
+AL100568,T908013,C10121,Repeated Failed Transaction,Medium,2026-06-24,Escalated,Pending
+AL100569,T908043,C10453,Repeated Failed Transaction,Medium,2026-09-19,Under Investigation,Confirmed Suspicious
+AL100570,T908050,C10407,Repeated Failed Transaction,Medium,2026-05-03,Under Investigation,No Issue
+AL100571,T908057,C10893,Repeated Failed Transaction,Medium,2026-08-29,Under Investigation,Confirmed Suspicious
+AL100572,T908082,C10402,Repeated Failed Transaction,Medium,2026-07-20,Open,Pending
+AL100573,T908088,C10043,Repeated Failed Transaction,Medium,2026-05-19,Escalated,False Positive
+AL100574,T908106,C10895,Repeated Failed Transaction,Medium,2026-08-16,Under Investigation,Confirmed Suspicious
+AL100575,T908109,C10718,Repeated Failed Transaction,Medium,2026-05-20,Open,False Positive
+AL100576,T908118,C10414,Repeated Failed Transaction,Medium,2026-09-10,Under Investigation,Confirmed Suspicious
+AL100577,T908162,C10644,Repeated Failed Transaction,Medium,2026-09-21,Under Investigation,Confirmed Suspicious
+AL100578,T908173,C10453,Repeated Failed Transaction,Medium,2026-06-12,Open,Confirmed Suspicious
+AL100579,T908210,C10062,Repeated Failed Transaction,Medium,2026-05-01,Escalated,Confirmed Suspicious
+AL100580,T908231,C10310,Repeated Failed Transaction,Medium,2026-07-11,Open,Pending
+AL100581,T908251,C10996,Repeated Failed Transaction,Medium,2026-08-29,Escalated,No Issue
+AL100582,T908264,C10657,Repeated Failed Transaction,Medium,2026-08-09,Open,Pending
+AL100583,T908281,C10228,Repeated Failed Transaction,Medium,2026-08-06,Open,No Issue
+AL100584,T908292,C10891,Repeated Failed Transaction,Medium,2026-08-11,Escalated,No Issue
+AL100585,T908296,C10000,Repeated Failed Transaction,Medium,2026-08-04,Closed,Confirmed Suspicious
+AL100586,T908300,C10244,Repeated Failed Transaction,Medium,2026-04-10,Closed,False Positive
+AL100587,T908313,C10501,Repeated Failed Transaction,Medium,2026-08-11,Escalated,Pending
+AL100588,T908360,C10559,Repeated Failed Transaction,Medium,2026-08-13,Closed,False Positive
+AL100589,T908372,C10099,Repeated Failed Transaction,Medium,2026-09-23,Closed,False Positive
+AL100590,T908376,C10019,Repeated Failed Transaction,Medium,2026-06-24,Open,Confirmed Suspicious
+AL100591,T908382,C10097,Repeated Failed Transaction,Medium,2026-09-28,Under Investigation,False Positive
+AL100592,T908409,C10687,Repeated Failed Transaction,Medium,2026-05-02,Open,Pending
+AL100593,T908416,C10476,Repeated Failed Transaction,Medium,2026-07-23,Escalated,False Positive
+AL100594,T908433,C10252,Repeated Failed Transaction,Medium,2026-05-03,Under Investigation,Confirmed Suspicious
+AL100595,T908436,C10498,Repeated Failed Transaction,Medium,2026-06-03,Under Investigation,Pending
+AL100596,T908497,C10147,Repeated Failed Transaction,Medium,2026-06-07,Under Investigation,No Issue
+AL100597,T908503,C10702,Repeated Failed Transaction,Medium,2026-07-19,Closed,Pending
+AL100598,T908531,C10990,Repeated Failed Transaction,Medium,2026-08-14,Escalated,Confirmed Suspicious
+AL100599,T908568,C10600,Repeated Failed Transaction,Medium,2026-06-23,Open,Confirmed Suspicious
+AL100600,T908589,C10759,Repeated Failed Transaction,Medium,2026-08-09,Escalated,False Positive
+AL100601,T908613,C10598,Repeated Failed Transaction,Medium,2026-09-15,Escalated,Confirmed Suspicious
+AL100602,T908621,C10090,Repeated Failed Transaction,Medium,2026-08-03,Under Investigation,Pending
+AL100603,T908632,C10005,Dormant Account Activity,High,2026-04-16,Escalated,Confirmed Suspicious
+AL100604,T908669,C10909,Repeated Failed Transaction,Medium,2026-04-22,Under Investigation,Confirmed Suspicious
+AL100605,T908682,C10764,Repeated Failed Transaction,Medium,2026-07-06,Escalated,Confirmed Suspicious
+AL100606,T908695,C10380,Repeated Failed Transaction,Medium,2026-08-31,Under Investigation,False Positive
+AL100607,T908698,C10316,Repeated Failed Transaction,Medium,2026-05-26,Open,Confirmed Suspicious
+AL100608,T908732,C10000,Repeated Failed Transaction,Medium,2026-08-11,Under Investigation,No Issue
+AL100609,T908733,C10500,Repeated Failed Transaction,Medium,2026-04-18,Escalated,No Issue
+AL100610,T908735,C10801,Repeated Failed Transaction,Medium,2026-07-07,Escalated,False Positive
+AL100611,T908738,C10028,Repeated Failed Transaction,Medium,2026-08-10,Escalated,Pending
+AL100612,T908743,C10529,Repeated Failed Transaction,Medium,2026-06-15,Open,False Positive
+AL100613,T908752,C10267,Repeated Failed Transaction,Medium,2026-06-17,Under Investigation,Pending
+AL100614,T908754,C10130,Repeated Failed Transaction,Medium,2026-05-30,Open,Confirmed Suspicious
+AL100615,T908760,C10816,Repeated Failed Transaction,Medium,2026-05-12,Escalated,False Positive
+AL100616,T908791,C10139,Repeated Failed Transaction,Medium,2026-04-08,Open,Pending
+AL100617,T908797,C10831,Repeated Failed Transaction,Medium,2026-04-21,Escalated,Confirmed Suspicious
+AL100618,T908810,C10922,Repeated Failed Transaction,Medium,2026-05-15,Closed,False Positive
+AL100619,T908832,C10013,Repeated Failed Transaction,Medium,2026-08-07,Closed,Confirmed Suspicious
+AL100620,T908833,C10196,Repeated Failed Transaction,Medium,2026-07-02,Under Investigation,No Issue
+AL100621,T908843,C10200,Repeated Failed Transaction,Medium,2026-04-17,Open,No Issue
+AL100622,T908877,C10642,Repeated Failed Transaction,Medium,2026-09-15,Escalated,No Issue
+AL100623,T908888,C10430,Repeated Failed Transaction,Medium,2026-08-26,Escalated,False Positive
+AL100624,T908889,C10075,Repeated Failed Transaction,Medium,2026-09-16,Under Investigation,No Issue
+AL100625,T908892,C10138,Repeated Failed Transaction,Medium,2026-08-13,Escalated,False Positive
+AL100626,T908943,C10248,Repeated Failed Transaction,Medium,2026-04-02,Closed,False Positive
+AL100627,T908959,C10909,Repeated Failed Transaction,Medium,2026-05-09,Closed,No Issue
+AL100628,T908963,C10919,Repeated Failed Transaction,Medium,2026-08-11,Open,No Issue
+AL100629,T908980,C10264,Repeated Failed Transaction,Medium,2026-04-27,Open,False Positive
+AL100630,T908991,C10548,Repeated Failed Transaction,Medium,2026-07-26,Open,Pending
+AL100631,T909045,C10879,Repeated Failed Transaction,Medium,2026-06-11,Closed,False Positive
+AL100632,T909062,C10548,Repeated Failed Transaction,Medium,2026-08-07,Open,Pending
+AL100633,T909087,C10946,Repeated Failed Transaction,Medium,2026-08-23,Closed,Confirmed Suspicious
+AL100634,T909091,C10026,Repeated Failed Transaction,Medium,2026-09-16,Under Investigation,False Positive
+AL100635,T909093,C10817,Repeated Failed Transaction,Medium,2026-07-13,Open,No Issue
+AL100636,T909102,C10430,Repeated Failed Transaction,Medium,2026-08-30,Open,No Issue
+AL100637,T909131,C10695,Repeated Failed Transaction,Medium,2026-04-07,Under Investigation,Pending
+AL100638,T909139,C10697,Repeated Failed Transaction,Medium,2026-06-04,Closed,No Issue
+AL100639,T909141,C10002,Dormant Account Activity,High,2026-04-13,Under Investigation,Confirmed Suspicious
+AL100640,T909145,C10595,Repeated Failed Transaction,Medium,2026-04-30,Escalated,Confirmed Suspicious
+AL100641,T909150,C10706,Repeated Failed Transaction,Medium,2026-06-10,Open,No Issue
+AL100642,T909152,C10187,Repeated Failed Transaction,Medium,2026-09-16,Escalated,Confirmed Suspicious
+AL100643,T909155,C10283,Repeated Failed Transaction,Medium,2026-08-04,Open,Confirmed Suspicious
+AL100644,T909170,C10617,Repeated Failed Transaction,Medium,2026-08-14,Under Investigation,False Positive
+AL100645,T909174,C10496,Repeated Failed Transaction,Medium,2026-06-14,Closed,Confirmed Suspicious
+AL100646,T909188,C10481,Repeated Failed Transaction,Medium,2026-08-20,Closed,Confirmed Suspicious
+AL100647,T909196,C10230,Repeated Failed Transaction,Medium,2026-06-23,Closed,Pending
+AL100648,T909206,C10299,Repeated Failed Transaction,Medium,2026-05-03,Under Investigation,Confirmed Suspicious
+AL100649,T909218,C10795,Repeated Failed Transaction,Medium,2026-08-12,Closed,Pending
+AL100650,T909220,C10113,Repeated Failed Transaction,Medium,2026-05-16,Escalated,Confirmed Suspicious
+AL100651,T909227,C10590,Repeated Failed Transaction,Medium,2026-08-09,Open,False Positive
+AL100652,T909232,C10817,Repeated Failed Transaction,Medium,2026-05-05,Open,No Issue
+AL100653,T909243,C10104,Repeated Failed Transaction,Medium,2026-09-20,Escalated,Pending
+AL100654,T909255,C10336,Repeated Failed Transaction,Medium,2026-04-17,Escalated,No Issue
+AL100655,T909266,C10443,Repeated Failed Transaction,Medium,2026-09-19,Escalated,Pending
+AL100656,T909278,C10247,Repeated Failed Transaction,Medium,2026-09-04,Open,Confirmed Suspicious
+AL100657,T909284,C10987,Repeated Failed Transaction,Medium,2026-06-22,Open,No Issue
+AL100658,T909286,C10795,Repeated Failed Transaction,Medium,2026-09-06,Closed,Confirmed Suspicious
+AL100659,T909304,C10534,Repeated Failed Transaction,Medium,2026-04-04,Open,False Positive
+AL100660,T909308,C10192,Repeated Failed Transaction,Medium,2026-08-29,Under Investigation,False Positive
+AL100661,T909319,C10526,Repeated Failed Transaction,Medium,2026-05-22,Escalated,Confirmed Suspicious
+AL100662,T909344,C10539,Repeated Failed Transaction,Medium,2026-05-12,Under Investigation,Pending
+AL100663,T909359,C10558,Repeated Failed Transaction,Medium,2026-05-22,Open,Confirmed Suspicious
+AL100664,T909379,C10005,Dormant Account Activity,High,2026-04-18,Open,No Issue
+AL100665,T909410,C10288,Repeated Failed Transaction,Medium,2026-07-06,Escalated,Pending
+AL100666,T909432,C10647,Repeated Failed Transaction,Medium,2026-09-18,Open,Confirmed Suspicious
+AL100667,T909436,C10149,Repeated Failed Transaction,Medium,2026-04-06,Under Investigation,Pending
+AL100668,T909457,C10681,Repeated Failed Transaction,Medium,2026-08-15,Closed,No Issue
+AL100669,T909462,C10793,Repeated Failed Transaction,Medium,2026-06-03,Escalated,No Issue
+AL100670,T909463,C10297,Repeated Failed Transaction,Medium,2026-06-17,Closed,Confirmed Suspicious
+AL100671,T909482,C10093,Repeated Failed Transaction,Medium,2026-09-17,Closed,Confirmed Suspicious
+AL100672,T909483,C10854,Repeated Failed Transaction,Medium,2026-09-03,Closed,Confirmed Suspicious
+AL100673,T909488,C10003,Repeated Failed Transaction,Medium,2026-08-03,Escalated,False Positive
+AL100674,T909493,C10065,Repeated Failed Transaction,Medium,2026-05-06,Under Investigation,Pending
+AL100675,T909503,C10833,Repeated Failed Transaction,Medium,2026-05-19,Under Investigation,No Issue
+AL100676,T909505,C10882,Repeated Failed Transaction,Medium,2026-07-19,Under Investigation,False Positive
+AL100677,T909520,C10910,Repeated Failed Transaction,Medium,2026-04-08,Escalated,Pending
+AL100678,T909523,C10748,Repeated Failed Transaction,Medium,2026-09-09,Escalated,No Issue
+AL100679,T909526,C10069,Repeated Failed Transaction,Medium,2026-06-30,Open,False Positive
+AL100680,T909540,C10046,Repeated Failed Transaction,Medium,2026-06-08,Escalated,Confirmed Suspicious
+AL100681,T909546,C10034,Repeated Failed Transaction,Medium,2026-06-03,Escalated,False Positive
+AL100682,T909564,C10314,Repeated Failed Transaction,Medium,2026-07-07,Under Investigation,Pending
+AL100683,T909582,C10432,Repeated Failed Transaction,Medium,2026-09-01,Escalated,No Issue
+AL100684,T909587,C10590,Repeated Failed Transaction,Medium,2026-07-01,Under Investigation,No Issue
+AL100685,T909625,C10651,Repeated Failed Transaction,Medium,2026-09-15,Escalated,No Issue
+AL100686,T909638,C10276,Repeated Failed Transaction,Medium,2026-06-09,Escalated,No Issue
+AL100687,T909639,C10293,Repeated Failed Transaction,Medium,2026-07-07,Under Investigation,No Issue
+AL100688,T909649,C10275,Repeated Failed Transaction,Medium,2026-04-26,Open,No Issue
+AL100689,T909682,C10254,Repeated Failed Transaction,Medium,2026-05-06,Escalated,Pending
+AL100690,T909688,C10416,Repeated Failed Transaction,Medium,2026-06-04,Open,Confirmed Suspicious
+AL100691,T909698,C10717,Repeated Failed Transaction,Medium,2026-05-20,Under Investigation,False Positive
+AL100692,T909745,C10002,Dormant Account Activity,High,2026-08-13,Under Investigation,No Issue
+AL100693,T909747,C10786,Repeated Failed Transaction,Medium,2026-06-10,Under Investigation,False Positive
+AL100694,T909783,C10828,Repeated Failed Transaction,Medium,2026-09-20,Closed,No Issue
+AL100695,T909794,C10203,Repeated Failed Transaction,Medium,2026-09-11,Closed,Pending
+AL100696,T909805,C10856,Repeated Failed Transaction,Medium,2026-06-17,Under Investigation,False Positive
+AL100697,T909846,C10933,Repeated Failed Transaction,Medium,2026-08-18,Escalated,False Positive
+AL100698,T909880,C10772,Repeated Failed Transaction,Medium,2026-04-03,Escalated,Pending
+AL100699,T909891,C10500,Repeated Failed Transaction,Medium,2026-09-19,Open,False Positive
+AL100700,T909894,C10269,Repeated Failed Transaction,Medium,2026-09-03,Escalated,Pending
+AL100701,T909909,C10998,Repeated Failed Transaction,Medium,2026-08-15,Open,False Positive
+AL100702,T909922,C10286,Repeated Failed Transaction,Medium,2026-09-12,Escalated,No Issue
+AL100703,T909926,C10579,Repeated Failed Transaction,Medium,2026-08-06,Escalated,No Issue
+AL100704,T909935,C10150,Repeated Failed Transaction,Medium,2026-08-23,Escalated,False Positive
+AL100705,T909945,C10750,Repeated Failed Transaction,Medium,2026-04-25,Under Investigation,Confirmed Suspicious
+AL100706,T909971,C10398,Repeated Failed Transaction,Medium,2026-06-07,Open,No Issue
+AL100707,T909997,C10901,Repeated Failed Transaction,Medium,2026-09-06,Closed,Confirmed Suspicious
+AL100708,T909998,C10943,Repeated Failed Transaction,Medium,2026-06-26,Open,Pending
+AL100709,T910009,C10486,Repeated Failed Transaction,Medium,2026-07-06,Under Investigation,No Issue
+AL100710,T910043,C10042,Repeated Failed Transaction,Medium,2026-08-28,Open,Confirmed Suspicious
+AL100711,T910046,C10474,Repeated Failed Transaction,Medium,2026-05-18,Closed,Confirmed Suspicious
+AL100712,T910051,C10136,Repeated Failed Transaction,Medium,2026-04-22,Under Investigation,No Issue
+AL100713,T910055,C10805,Repeated Failed Transaction,Medium,2026-05-12,Escalated,Pending
+AL100714,T910075,C10705,Repeated Failed Transaction,Medium,2026-06-08,Escalated,Pending
+AL100715,T910095,C10045,Repeated Failed Transaction,Medium,2026-07-22,Escalated,False Positive
+AL100716,T910103,C10409,Repeated Failed Transaction,Medium,2026-09-05,Escalated,Pending
+AL100717,T910110,C10915,Repeated Failed Transaction,Medium,2026-06-30,Open,False Positive
+AL100718,T910115,C10435,Repeated Failed Transaction,Medium,2026-05-06,Escalated,False Positive
+AL100719,T910118,C10165,Repeated Failed Transaction,Medium,2026-05-20,Escalated,False Positive
+AL100720,T910126,C10154,Repeated Failed Transaction,Medium,2026-08-16,Under Investigation,No Issue
+AL100721,T910128,C10266,Repeated Failed Transaction,Medium,2026-04-23,Open,Pending
+AL100722,T910144,C10418,Repeated Failed Transaction,Medium,2026-04-24,Escalated,No Issue
+AL100723,T910186,C10962,Repeated Failed Transaction,Medium,2026-06-06,Escalated,Pending
+AL100724,T910194,C10881,Repeated Failed Transaction,Medium,2026-09-10,Under Investigation,Pending
+AL100725,T910218,C10047,Repeated Failed Transaction,Medium,2026-06-25,Under Investigation,False Positive
+AL100726,T910235,C10929,Repeated Failed Transaction,Medium,2026-08-22,Closed,No Issue
+AL100727,T910237,C10872,Repeated Failed Transaction,Medium,2026-04-06,Open,No Issue
+AL100728,T910254,C10077,Repeated Failed Transaction,Medium,2026-05-02,Closed,No Issue
+AL100729,T910257,C10172,Repeated Failed Transaction,Medium,2026-09-08,Escalated,No Issue
+AL100730,T910278,C10652,Repeated Failed Transaction,Medium,2026-06-30,Open,Confirmed Suspicious
+AL100731,T910287,C10867,Repeated Failed Transaction,Medium,2026-04-22,Closed,False Positive
+AL100732,T910292,C10272,Repeated Failed Transaction,Medium,2026-04-23,Open,Pending
+AL100733,T910295,C10414,Repeated Failed Transaction,Medium,2026-05-12,Escalated,False Positive
+AL100734,T910305,C10687,Repeated Failed Transaction,Medium,2026-06-07,Under Investigation,No Issue
+AL100735,T910346,C10896,Repeated Failed Transaction,Medium,2026-05-31,Escalated,False Positive
+AL100736,T910357,C10067,Repeated Failed Transaction,Medium,2026-07-17,Under Investigation,Pending
+AL100737,T910364,C10454,Repeated Failed Transaction,Medium,2026-08-16,Closed,No Issue
+AL100738,T910388,C10310,Repeated Failed Transaction,Medium,2026-06-12,Under Investigation,Confirmed Suspicious
+AL100739,T910413,C10202,Repeated Failed Transaction,Medium,2026-05-16,Closed,No Issue
+AL100740,T910429,C10944,Repeated Failed Transaction,Medium,2026-08-20,Escalated,Pending
+AL100741,T910454,C10012,Dormant Account Activity,High,2026-05-23,Closed,Pending
+AL100742,T910462,C10408,Repeated Failed Transaction,Medium,2026-08-03,Under Investigation,Confirmed Suspicious
+AL100743,T910473,C10541,Repeated Failed Transaction,Medium,2026-09-23,Closed,Pending
+AL100744,T910474,C10814,Repeated Failed Transaction,Medium,2026-06-29,Escalated,False Positive
+AL100745,T910496,C10992,Repeated Failed Transaction,Medium,2026-08-11,Escalated,Confirmed Suspicious
+AL100746,T910501,C10440,Repeated Failed Transaction,Medium,2026-07-02,Under Investigation,False Positive
+AL100747,T910502,C10957,Repeated Failed Transaction,Medium,2026-06-08,Escalated,Pending
+AL100748,T910521,C10704,Repeated Failed Transaction,Medium,2026-07-17,Closed,Confirmed Suspicious
+AL100749,T910547,C10389,Repeated Failed Transaction,Medium,2026-09-21,Escalated,No Issue
+AL100750,T910561,C10533,Repeated Failed Transaction,Medium,2026-04-17,Closed,Pending
+AL100751,T910571,C10135,Repeated Failed Transaction,Medium,2026-09-15,Escalated,No Issue
+AL100752,T910574,C10956,Repeated Failed Transaction,Medium,2026-05-04,Closed,Confirmed Suspicious
+AL100753,T910590,C10202,Repeated Failed Transaction,Medium,2026-07-03,Under Investigation,Confirmed Suspicious
+AL100754,T910622,C10334,Repeated Failed Transaction,Medium,2026-04-09,Under Investigation,Confirmed Suspicious
+AL100755,T910636,C10153,Repeated Failed Transaction,Medium,2026-09-24,Open,Confirmed Suspicious
+AL100756,T910637,C10371,Repeated Failed Transaction,Medium,2026-06-27,Escalated,False Positive
+AL100757,T910652,C10532,Repeated Failed Transaction,Medium,2026-06-07,Under Investigation,No Issue
+AL100758,T910654,C10900,Repeated Failed Transaction,Medium,2026-06-11,Escalated,Pending
+AL100759,T910656,C10727,Repeated Failed Transaction,Medium,2026-08-06,Under Investigation,Confirmed Suspicious
+AL100760,T910665,C10040,Repeated Failed Transaction,Medium,2026-07-23,Under Investigation,False Positive
+AL100761,T910691,C10080,Repeated Failed Transaction,Medium,2026-06-14,Open,Confirmed Suspicious
+AL100762,T910696,C10382,Repeated Failed Transaction,Medium,2026-05-29,Open,Confirmed Suspicious
+AL100763,T910712,C10969,Repeated Failed Transaction,Medium,2026-06-04,Escalated,False Positive
+AL100764,T910713,C10182,Repeated Failed Transaction,Medium,2026-04-29,Open,False Positive
+AL100765,T910716,C10199,Repeated Failed Transaction,Medium,2026-06-24,Escalated,Pending
+AL100766,T910723,C10946,Repeated Failed Transaction,Medium,2026-04-24,Under Investigation,Pending
+AL100767,T910724,C10509,Repeated Failed Transaction,Medium,2026-09-22,Escalated,False Positive
+AL100768,T910746,C10112,Repeated Failed Transaction,Medium,2026-07-03,Under Investigation,Confirmed Suspicious
+AL100769,T910759,C10277,Repeated Failed Transaction,Medium,2026-05-23,Under Investigation,Pending
+AL100770,T910778,C10896,Repeated Failed Transaction,Medium,2026-05-21,Closed,Pending
+AL100771,T910781,C10287,Repeated Failed Transaction,Medium,2026-04-22,Closed,Confirmed Suspicious
+AL100772,T910825,C10399,Repeated Failed Transaction,Medium,2026-09-27,Escalated,No Issue
+AL100773,T910829,C10975,Repeated Failed Transaction,Medium,2026-06-22,Open,Confirmed Suspicious
+AL100774,T910830,C10137,Repeated Failed Transaction,Medium,2026-09-23,Open,Confirmed Suspicious
+AL100775,T910832,C10112,Repeated Failed Transaction,Medium,2026-06-14,Closed,No Issue
+AL100776,T910857,C10122,Repeated Failed Transaction,Medium,2026-04-07,Closed,Confirmed Suspicious
+AL100777,T910865,C10235,Repeated Failed Transaction,Medium,2026-06-18,Under Investigation,Pending
+AL100778,T910892,C10760,Repeated Failed Transaction,Medium,2026-05-05,Under Investigation,No Issue
+AL100779,T910900,C10830,Repeated Failed Transaction,Medium,2026-07-27,Closed,Pending
+AL100780,T910903,C10534,Repeated Failed Transaction,Medium,2026-08-12,Under Investigation,Pending
+AL100781,T910909,C10929,Repeated Failed Transaction,Medium,2026-08-27,Escalated,Confirmed Suspicious
+AL100782,T910924,C10762,Repeated Failed Transaction,Medium,2026-05-20,Open,False Positive
+AL100783,T910930,C10415,Repeated Failed Transaction,Medium,2026-04-02,Open,Pending
+AL100784,T910951,C10409,Repeated Failed Transaction,Medium,2026-04-05,Escalated,Confirmed Suspicious
+AL100785,T910953,C10241,Repeated Failed Transaction,Medium,2026-09-07,Under Investigation,False Positive
+AL100786,T910957,C10195,Repeated Failed Transaction,Medium,2026-05-16,Open,Confirmed Suspicious
+AL100787,T910965,C10881,Repeated Failed Transaction,Medium,2026-07-03,Open,No Issue
+AL100788,T910974,C10909,Repeated Failed Transaction,Medium,2026-08-29,Open,False Positive
+AL100789,T910977,C10474,Repeated Failed Transaction,Medium,2026-05-01,Under Investigation,No Issue
+AL100790,T910990,C10130,Repeated Failed Transaction,Medium,2026-09-26,Open,False Positive
+AL100791,T911014,C10554,Repeated Failed Transaction,Medium,2026-09-16,Escalated,Pending
+AL100792,T911022,C10765,Repeated Failed Transaction,Medium,2026-08-19,Under Investigation,No Issue
+AL100793,T911047,C10344,Repeated Failed Transaction,Medium,2026-06-15,Closed,Pending
+AL100794,T911055,C10341,Repeated Failed Transaction,Medium,2026-08-20,Under Investigation,False Positive
+AL100795,T911069,C10086,Repeated Failed Transaction,Medium,2026-06-04,Escalated,False Positive
+AL100796,T911098,C10094,Repeated Failed Transaction,Medium,2026-04-16,Escalated,Pending
+AL100797,T911113,C10323,Repeated Failed Transaction,Medium,2026-09-28,Closed,Confirmed Suspicious
+AL100798,T911127,C10366,Repeated Failed Transaction,Medium,2026-04-23,Under Investigation,Pending
+AL100799,T911140,C10799,Repeated Failed Transaction,Medium,2026-09-17,Closed,False Positive
+AL100800,T911149,C10657,Repeated Failed Transaction,Medium,2026-06-11,Escalated,Confirmed Suspicious
+AL100801,T911150,C10745,Repeated Failed Transaction,Medium,2026-09-16,Open,Pending
+AL100802,T911163,C10324,Repeated Failed Transaction,Medium,2026-05-25,Under Investigation,Pending
+AL100803,T911175,C10856,Repeated Failed Transaction,Medium,2026-06-13,Open,No Issue
+AL100804,T911187,C10227,Repeated Failed Transaction,Medium,2026-09-06,Escalated,Confirmed Suspicious
+AL100805,T911202,C10448,Repeated Failed Transaction,Medium,2026-04-11,Open,Pending
+AL100806,T911218,C10085,Repeated Failed Transaction,Medium,2026-06-09,Under Investigation,False Positive
+AL100807,T911220,C10162,Repeated Failed Transaction,Medium,2026-06-29,Closed,False Positive
+AL100808,T911226,C10413,Repeated Failed Transaction,Medium,2026-05-21,Under Investigation,False Positive
+AL100809,T911252,C10458,Repeated Failed Transaction,Medium,2026-06-15,Open,No Issue
+AL100810,T911310,C10371,Repeated Failed Transaction,Medium,2026-06-12,Open,No Issue
+AL100811,T911312,C10002,Dormant Account Activity,High,2026-05-29,Under Investigation,No Issue
+AL100812,T911322,C10620,Repeated Failed Transaction,Medium,2026-07-28,Under Investigation,Pending
+AL100813,T911344,C10702,Repeated Failed Transaction,Medium,2026-09-08,Under Investigation,Confirmed Suspicious
+AL100814,T911363,C10863,Repeated Failed Transaction,Medium,2026-09-24,Under Investigation,Pending
+AL100815,T911388,C10881,Repeated Failed Transaction,Medium,2026-08-31,Under Investigation,No Issue
+AL100816,T911412,C10342,Repeated Failed Transaction,Medium,2026-04-11,Open,No Issue
+AL100817,T911430,C10912,Repeated Failed Transaction,Medium,2026-09-08,Escalated,No Issue
+AL100818,T911432,C10352,Repeated Failed Transaction,Medium,2026-08-23,Under Investigation,False Positive
+AL100819,T911439,C10597,Repeated Failed Transaction,Medium,2026-04-12,Under Investigation,No Issue
+AL100820,T911443,C10172,Repeated Failed Transaction,Medium,2026-05-26,Escalated,Pending
+AL100821,T911451,C10616,Repeated Failed Transaction,Medium,2026-05-06,Escalated,Pending
+AL100822,T911462,C10869,Repeated Failed Transaction,Medium,2026-04-13,Closed,Confirmed Suspicious
+AL100823,T911463,C10930,Repeated Failed Transaction,Medium,2026-04-05,Closed,Confirmed Suspicious
+AL100824,T911488,C10188,Repeated Failed Transaction,Medium,2026-07-06,Escalated,No Issue
+AL100825,T911499,C10194,Repeated Failed Transaction,Medium,2026-09-24,Under Investigation,Confirmed Suspicious
+AL100826,T911538,C10956,Repeated Failed Transaction,Medium,2026-08-20,Under Investigation,Pending
+AL100827,T911541,C10151,Repeated Failed Transaction,Medium,2026-05-19,Under Investigation,Confirmed Suspicious
+AL100828,T911554,C10969,Repeated Failed Transaction,Medium,2026-05-07,Escalated,False Positive
+AL100829,T911576,C10950,Repeated Failed Transaction,Medium,2026-04-23,Under Investigation,Confirmed Suspicious
+AL100830,T911580,C10221,Repeated Failed Transaction,Medium,2026-08-21,Closed,Pending
+AL100831,T911629,C10225,Repeated Failed Transaction,Medium,2026-04-11,Escalated,Pending
+AL100832,T911631,C10304,Repeated Failed Transaction,Medium,2026-05-17,Escalated,Confirmed Suspicious
+AL100833,T911641,C10464,Repeated Failed Transaction,Medium,2026-07-30,Escalated,Pending
+AL100834,T911646,C10853,Repeated Failed Transaction,Medium,2026-04-29,Escalated,Confirmed Suspicious
+AL100835,T911651,C10058,Repeated Failed Transaction,Medium,2026-07-22,Under Investigation,False Positive
+AL100836,T911655,C10413,Repeated Failed Transaction,Medium,2026-05-02,Open,False Positive
+AL100837,T911671,C10029,Repeated Failed Transaction,Medium,2026-04-24,Open,Confirmed Suspicious
+AL100838,T911676,C10406,Repeated Failed Transaction,Medium,2026-07-29,Under Investigation,Confirmed Suspicious
+AL100839,T911714,C10893,Repeated Failed Transaction,Medium,2026-09-15,Open,False Positive
+AL100840,T911727,C10577,Repeated Failed Transaction,Medium,2026-06-26,Closed,Confirmed Suspicious
+AL100841,T911728,C10599,Repeated Failed Transaction,Medium,2026-08-01,Under Investigation,Pending
+AL100842,T911748,C10012,Dormant Account Activity,High,2026-08-05,Closed,False Positive
+AL100843,T911752,C10242,Repeated Failed Transaction,Medium,2026-07-07,Open,Pending
+AL100844,T911761,C10873,Repeated Failed Transaction,Medium,2026-05-27,Open,False Positive
+AL100845,T911775,C10366,Repeated Failed Transaction,Medium,2026-07-14,Under Investigation,False Positive
+AL100846,T911787,C10963,Repeated Failed Transaction,Medium,2026-07-30,Open,No Issue
+AL100847,T911796,C10417,Repeated Failed Transaction,Medium,2026-04-11,Open,Confirmed Suspicious
+AL100848,T911802,C10761,Repeated Failed Transaction,Medium,2026-06-17,Under Investigation,Confirmed Suspicious
+AL100849,T911806,C10131,Repeated Failed Transaction,Medium,2026-06-30,Open,No Issue
+AL100850,T911810,C10210,Repeated Failed Transaction,Medium,2026-08-14,Escalated,No Issue
+AL100851,T911813,C10151,Repeated Failed Transaction,Medium,2026-04-19,Under Investigation,Confirmed Suspicious
+AL100852,T911818,C10565,Repeated Failed Transaction,Medium,2026-08-19,Under Investigation,Pending
+AL100853,T911841,C10838,Repeated Failed Transaction,Medium,2026-09-08,Closed,Pending
+AL100854,T911847,C10787,Repeated Failed Transaction,Medium,2026-06-29,Open,False Positive
+AL100855,T911849,C10003,Repeated Failed Transaction,Medium,2026-08-13,Open,No Issue
+AL100856,T911852,C10707,Repeated Failed Transaction,Medium,2026-08-22,Escalated,Pending
+AL100857,T911853,C10687,Repeated Failed Transaction,Medium,2026-05-27,Open,False Positive
+AL100858,T911902,C10770,Repeated Failed Transaction,Medium,2026-05-12,Escalated,No Issue
+AL100859,T911917,C10283,Repeated Failed Transaction,Medium,2026-07-03,Escalated,False Positive
+AL100860,T911931,C10560,Repeated Failed Transaction,Medium,2026-04-16,Open,No Issue
+AL100861,T911942,C10843,Repeated Failed Transaction,Medium,2026-04-03,Escalated,False Positive
+AL100862,T911977,C10267,Repeated Failed Transaction,Medium,2026-04-02,Escalated,No Issue
+AL100863,T911992,C10120,Repeated Failed Transaction,Medium,2026-04-02,Closed,Pending
+AL100864,T912013,C10284,Repeated Failed Transaction,Medium,2026-09-07,Closed,No Issue
+AL100865,T912029,C10017,Dormant Account Activity,High,2026-07-01,Open,No Issue
+AL100866,T912034,C10103,Repeated Failed Transaction,Medium,2026-09-14,Under Investigation,Confirmed Suspicious
+AL100867,T912065,C10665,Repeated Failed Transaction,Medium,2026-06-19,Escalated,Pending
+AL100868,T912066,C10141,Repeated Failed Transaction,Medium,2026-06-01,Closed,Pending
+AL100869,T912071,C10965,Repeated Failed Transaction,Medium,2026-07-11,Escalated,Confirmed Suspicious
+AL100870,T912089,C10471,Repeated Failed Transaction,Medium,2026-09-22,Escalated,No Issue
+AL100871,T912095,C10008,Repeated Failed Transaction,Medium,2026-07-15,Open,No Issue
+AL100872,T912100,C10611,Repeated Failed Transaction,Medium,2026-06-02,Under Investigation,Pending
+AL100873,T912125,C10085,Repeated Failed Transaction,Medium,2026-04-07,Under Investigation,Pending
+AL100874,T912128,C10848,Repeated Failed Transaction,Medium,2026-05-28,Under Investigation,Confirmed Suspicious
+AL100875,T912143,C10286,Repeated Failed Transaction,Medium,2026-06-29,Under Investigation,Confirmed Suspicious
+AL100876,T912147,C10828,Repeated Failed Transaction,Medium,2026-08-11,Under Investigation,Confirmed Suspicious
+AL100877,T912148,C10315,Repeated Failed Transaction,Medium,2026-09-03,Open,Confirmed Suspicious
+AL100878,T912159,C10819,Repeated Failed Transaction,Medium,2026-07-28,Under Investigation,No Issue
+AL100879,T912193,C10501,Repeated Failed Transaction,Medium,2026-05-15,Closed,False Positive
+AL100880,T912199,C10827,Repeated Failed Transaction,Medium,2026-06-28,Closed,Pending
+AL100881,T912202,C10474,Repeated Failed Transaction,Medium,2026-05-13,Open,Confirmed Suspicious
+AL100882,T912205,C10467,Repeated Failed Transaction,Medium,2026-09-27,Escalated,Pending
+AL100883,T912207,C10856,Repeated Failed Transaction,Medium,2026-08-19,Closed,Pending
+AL100884,T912210,C10021,Repeated Failed Transaction,Medium,2026-09-08,Open,No Issue
+AL100885,T912219,C10017,Dormant Account Activity,High,2026-07-02,Closed,Pending
+AL100886,T912223,C10064,Repeated Failed Transaction,Medium,2026-06-16,Under Investigation,Pending
+AL100887,T912240,C10491,Repeated Failed Transaction,Medium,2026-07-10,Closed,Pending
+AL100888,T912246,C10195,Repeated Failed Transaction,Medium,2026-07-27,Closed,False Positive
+AL100889,T912260,C10557,Repeated Failed Transaction,Medium,2026-07-06,Closed,No Issue
+AL100890,T912274,C10287,Repeated Failed Transaction,Medium,2026-08-20,Open,False Positive
+AL100891,T912284,C10593,Repeated Failed Transaction,Medium,2026-05-04,Escalated,Pending
+AL100892,T912290,C10500,Repeated Failed Transaction,Medium,2026-05-02,Escalated,Pending
+AL100893,T912291,C10017,Dormant Account Activity,High,2026-05-21,Closed,Confirmed Suspicious
+AL100894,T912294,C10096,Repeated Failed Transaction,Medium,2026-09-12,Open,False Positive
+AL100895,T912312,C10588,Repeated Failed Transaction,Medium,2026-07-30,Escalated,Pending
+AL100896,T912314,C10019,Repeated Failed Transaction,Medium,2026-05-09,Open,Confirmed Suspicious
+AL100897,T912322,C10174,Repeated Failed Transaction,Medium,2026-06-06,Closed,No Issue
+AL100898,T912323,C10303,Potential Structuring,High,2026-09-01,Under Investigation,Pending
+AL100899,T912342,C10095,Repeated Failed Transaction,Medium,2026-08-26,Open,No Issue
+AL100900,T912346,C10017,Dormant Account Activity,High,2026-09-20,Closed,No Issue
+AL100901,T912354,C10131,Repeated Failed Transaction,Medium,2026-07-26,Escalated,Confirmed Suspicious
+AL100902,T912368,C10505,Repeated Failed Transaction,Medium,2026-07-23,Under Investigation,Confirmed Suspicious
+AL100903,T912404,C10005,Dormant Account Activity,High,2026-07-10,Under Investigation,False Positive
+AL100904,T912417,C10920,Repeated Failed Transaction,Medium,2026-06-28,Escalated,Pending
+AL100905,T912423,C10186,Repeated Failed Transaction,Medium,2026-06-12,Escalated,Confirmed Suspicious
+AL100906,T912426,C10965,Repeated Failed Transaction,Medium,2026-08-07,Under Investigation,Pending
+AL100907,T912433,C10201,Repeated Failed Transaction,Medium,2026-07-28,Under Investigation,False Positive
+AL100908,T912448,C10307,Repeated Failed Transaction,Medium,2026-08-20,Under Investigation,False Positive
+AL100909,T912478,C10382,Repeated Failed Transaction,Medium,2026-06-27,Open,Pending
+AL100910,T912495,C10028,Repeated Failed Transaction,Medium,2026-08-20,Closed,Pending
+AL100911,T912496,C10195,Repeated Failed Transaction,Medium,2026-06-17,Open,Pending
+AL100912,T912504,C10028,Repeated Failed Transaction,Medium,2026-09-21,Escalated,Confirmed Suspicious
+AL100913,T912529,C10431,Repeated Failed Transaction,Medium,2026-04-23,Open,False Positive
+AL100914,T912531,C10157,Repeated Failed Transaction,Medium,2026-06-24,Closed,Confirmed Suspicious
+AL100915,T912535,C10548,Repeated Failed Transaction,Medium,2026-05-29,Open,False Positive
+AL100916,T912539,C10131,Repeated Failed Transaction,Medium,2026-08-12,Closed,Confirmed Suspicious
+AL100917,T912570,C10539,Repeated Failed Transaction,Medium,2026-05-23,Escalated,Confirmed Suspicious
+AL100918,T912573,C10687,Repeated Failed Transaction,Medium,2026-04-16,Under Investigation,Pending
+AL100919,T912603,C10516,Repeated Failed Transaction,Medium,2026-06-25,Open,No Issue
+AL100920,T912646,C10822,Repeated Failed Transaction,Medium,2026-05-06,Closed,Pending
+AL100921,T912651,C10671,Repeated Failed Transaction,Medium,2026-06-26,Under Investigation,False Positive
+AL100922,T912669,C10172,Repeated Failed Transaction,Medium,2026-05-17,Closed,Pending
+AL100923,T912676,C10483,Repeated Failed Transaction,Medium,2026-04-15,Escalated,False Positive
+AL100924,T912686,C10770,Repeated Failed Transaction,Medium,2026-08-09,Closed,No Issue
+AL100925,T912690,C10936,Repeated Failed Transaction,Medium,2026-08-10,Under Investigation,No Issue
+AL100926,T912706,C10272,Repeated Failed Transaction,Medium,2026-07-17,Under Investigation,No Issue
+AL100927,T912731,C10883,Repeated Failed Transaction,Medium,2026-06-27,Closed,Pending
+AL100928,T912749,C10126,Repeated Failed Transaction,Medium,2026-08-10,Open,False Positive
+AL100929,T912754,C10831,Repeated Failed Transaction,Medium,2026-07-18,Escalated,Confirmed Suspicious
+AL100930,T912764,C10476,Repeated Failed Transaction,Medium,2026-09-22,Escalated,False Positive
+AL100931,T912792,C10498,Repeated Failed Transaction,Medium,2026-08-03,Escalated,False Positive
+AL100932,T912805,C10487,Repeated Failed Transaction,Medium,2026-08-12,Escalated,Confirmed Suspicious
+AL100933,T912826,C10579,Repeated Failed Transaction,Medium,2026-07-24,Open,Pending
+AL100934,T912850,C10403,Repeated Failed Transaction,Medium,2026-06-16,Under Investigation,False Positive
+AL100935,T912862,C10712,Repeated Failed Transaction,Medium,2026-05-17,Open,False Positive
+AL100936,T912912,C10656,Repeated Failed Transaction,Medium,2026-06-08,Closed,Confirmed Suspicious
+AL100937,T912927,C10093,Repeated Failed Transaction,Medium,2026-05-21,Escalated,No Issue
+AL100938,T912965,C10553,Repeated Failed Transaction,Medium,2026-04-14,Escalated,Pending
+AL100939,T912975,C10316,Repeated Failed Transaction,Medium,2026-05-09,Escalated,False Positive
+AL100940,T912983,C10467,Repeated Failed Transaction,Medium,2026-06-06,Under Investigation,False Positive
+AL100941,T913007,C10443,Repeated Failed Transaction,Medium,2026-04-30,Open,Confirmed Suspicious
+AL100942,T913018,C10717,Repeated Failed Transaction,Medium,2026-05-08,Escalated,No Issue
+AL100943,T913037,C10720,Repeated Failed Transaction,Medium,2026-07-05,Under Investigation,False Positive
+AL100944,T913046,C10012,Dormant Account Activity,High,2026-07-28,Under Investigation,No Issue
+AL100945,T913065,C10389,Repeated Failed Transaction,Medium,2026-05-08,Open,Pending
+AL100946,T913071,C10968,Repeated Failed Transaction,Medium,2026-06-03,Closed,False Positive
+AL100947,T913099,C10305,Repeated Failed Transaction,Medium,2026-06-20,Open,False Positive
+AL100948,T913133,C10786,Repeated Failed Transaction,Medium,2026-06-30,Escalated,Pending
+AL100949,T913139,C10634,Repeated Failed Transaction,Medium,2026-05-02,Closed,No Issue
+AL100950,T913150,C10906,Repeated Failed Transaction,Medium,2026-09-04,Open,No Issue
+AL100951,T913182,C10588,Repeated Failed Transaction,Medium,2026-08-28,Under Investigation,Pending
+AL100952,T913194,C10403,Repeated Failed Transaction,Medium,2026-05-22,Under Investigation,Confirmed Suspicious
+AL100953,T913203,C10378,Repeated Failed Transaction,Medium,2026-08-09,Under Investigation,False Positive
+AL100954,T913228,C10545,Repeated Failed Transaction,Medium,2026-08-24,Under Investigation,Confirmed Suspicious
+AL100955,T913243,C10667,Repeated Failed Transaction,Medium,2026-08-08,Closed,Confirmed Suspicious
+AL100956,T913244,C10853,Repeated Failed Transaction,Medium,2026-04-29,Closed,Pending
+AL100957,T913268,C10406,Repeated Failed Transaction,Medium,2026-09-11,Closed,No Issue
+AL100958,T913283,C10241,Repeated Failed Transaction,Medium,2026-06-18,Under Investigation,Pending
+AL100959,T913285,C10903,Repeated Failed Transaction,Medium,2026-08-30,Under Investigation,No Issue
+AL100960,T913290,C10833,Repeated Failed Transaction,Medium,2026-05-09,Escalated,Pending
+AL100961,T913309,C10724,Repeated Failed Transaction,Medium,2026-06-30,Open,Pending
+AL100962,T913326,C10631,Repeated Failed Transaction,Medium,2026-08-20,Escalated,Confirmed Suspicious
+AL100963,T913332,C10795,Repeated Failed Transaction,Medium,2026-09-02,Under Investigation,False Positive
+AL100964,T913347,C10018,Repeated Failed Transaction,Medium,2026-08-24,Open,Pending
+AL100965,T913358,C10710,Repeated Failed Transaction,Medium,2026-09-15,Under Investigation,Pending
+AL100966,T913360,C10903,Repeated Failed Transaction,Medium,2026-09-10,Closed,Pending
+AL100967,T913380,C10898,Repeated Failed Transaction,Medium,2026-07-30,Escalated,Pending
+AL100968,T913465,C10402,Repeated Failed Transaction,Medium,2026-08-16,Closed,Pending
+AL100969,T913468,C10246,Repeated Failed Transaction,Medium,2026-09-01,Escalated,No Issue
+AL100970,T913476,C10001,Repeated Failed Transaction,Medium,2026-06-27,Closed,Confirmed Suspicious
+AL100971,T913529,C10723,Repeated Failed Transaction,Medium,2026-04-15,Closed,No Issue
+AL100972,T913553,C10150,Repeated Failed Transaction,Medium,2026-06-18,Escalated,Pending
+AL100973,T913561,C10015,Potential Structuring,High,2026-04-02,Escalated,False Positive
+AL100974,T913562,C10731,Repeated Failed Transaction,Medium,2026-09-03,Escalated,Confirmed Suspicious
+AL100975,T913563,C10991,Repeated Failed Transaction,Medium,2026-05-02,Under Investigation,Confirmed Suspicious
+AL100976,T913569,C10017,Dormant Account Activity,High,2026-08-30,Closed,False Positive
+AL100977,T913582,C10576,Repeated Failed Transaction,Medium,2026-05-04,Escalated,No Issue
+AL100978,T913591,C10599,Repeated Failed Transaction,Medium,2026-08-04,Open,Pending
+AL100979,T913604,C10945,Repeated Failed Transaction,Medium,2026-07-06,Closed,False Positive
+AL100980,T913618,C10756,Repeated Failed Transaction,Medium,2026-07-08,Closed,Pending
+AL100981,T913624,C10217,Repeated Failed Transaction,Medium,2026-09-23,Closed,No Issue
+AL100982,T913637,C10717,Repeated Failed Transaction,Medium,2026-06-13,Open,False Positive
+AL100983,T913640,C10194,Repeated Failed Transaction,Medium,2026-09-02,Open,Confirmed Suspicious
+AL100984,T913644,C10748,Repeated Failed Transaction,Medium,2026-04-08,Open,Pending
+AL100985,T913653,C10077,Repeated Failed Transaction,Medium,2026-08-30,Open,False Positive
+AL100986,T913667,C10232,Repeated Failed Transaction,Medium,2026-04-06,Escalated,Pending
+AL100987,T913671,C10529,Repeated Failed Transaction,Medium,2026-05-31,Under Investigation,Pending
+AL100988,T913721,C10954,Repeated Failed Transaction,Medium,2026-07-05,Closed,Confirmed Suspicious
+AL100989,T913739,C10404,Repeated Failed Transaction,Medium,2026-06-12,Closed,False Positive
+AL100990,T913784,C10162,Repeated Failed Transaction,Medium,2026-06-11,Open,Pending
+AL100991,T913785,C10214,Repeated Failed Transaction,Medium,2026-08-22,Under Investigation,Pending
+AL100992,T913800,C10316,Repeated Failed Transaction,Medium,2026-06-02,Open,False Positive
+AL100993,T913806,C10529,Repeated Failed Transaction,Medium,2026-07-17,Open,False Positive
+AL100994,T913810,C10307,Repeated Failed Transaction,Medium,2026-05-07,Under Investigation,Confirmed Suspicious
+AL100995,T913811,C10562,Repeated Failed Transaction,Medium,2026-05-30,Under Investigation,Pending
+AL100996,T913829,C10228,Repeated Failed Transaction,Medium,2026-07-18,Escalated,Confirmed Suspicious
+AL100997,T913832,C10548,Repeated Failed Transaction,Medium,2026-07-05,Under Investigation,Confirmed Suspicious
+AL100998,T913847,C10415,Repeated Failed Transaction,Medium,2026-09-05,Open,No Issue
+AL100999,T913858,C10360,Repeated Failed Transaction,Medium,2026-04-27,Open,Confirmed Suspicious
+AL101000,T913872,C10018,Dormant Account Activity,High,2026-07-29,Under Investigation,Confirmed Suspicious
+AL101001,T913873,C10137,Repeated Failed Transaction,Medium,2026-06-30,Open,No Issue
+AL101002,T913896,C10827,Repeated Failed Transaction,Medium,2026-09-16,Escalated,No Issue
+AL101003,T913906,C10151,Repeated Failed Transaction,Medium,2026-06-29,Open,False Positive
+AL101004,T913916,C10975,Repeated Failed Transaction,Medium,2026-05-09,Escalated,Pending
+AL101005,T913919,C10245,Repeated Failed Transaction,Medium,2026-04-26,Open,False Positive
+AL101006,T913931,C10254,Repeated Failed Transaction,Medium,2026-08-04,Open,Confirmed Suspicious
+AL101007,T913948,C10626,Repeated Failed Transaction,Medium,2026-04-20,Under Investigation,Confirmed Suspicious
+AL101008,T913971,C10286,Repeated Failed Transaction,Medium,2026-05-24,Escalated,No Issue
+AL101009,T914065,C10309,Repeated Failed Transaction,Medium,2026-04-10,Escalated,False Positive
+AL101010,T914070,C10524,Repeated Failed Transaction,Medium,2026-04-28,Under Investigation,Confirmed Suspicious
+AL101011,T914071,C10355,Repeated Failed Transaction,Medium,2026-04-08,Open,Confirmed Suspicious
+AL101012,T914083,C10465,Repeated Failed Transaction,Medium,2026-09-02,Under Investigation,Pending
+AL101013,T914084,C10815,Repeated Failed Transaction,Medium,2026-05-29,Under Investigation,False Positive
+AL101014,T914097,C10911,Repeated Failed Transaction,Medium,2026-06-16,Closed,Confirmed Suspicious
+AL101015,T914103,C10938,Repeated Failed Transaction,Medium,2026-06-29,Open,Confirmed Suspicious
+AL101016,T914109,C10169,Repeated Failed Transaction,Medium,2026-05-14,Under Investigation,False Positive
+AL101017,T914112,C10239,Repeated Failed Transaction,Medium,2026-09-19,Under Investigation,Confirmed Suspicious
+AL101018,T914115,C10441,Repeated Failed Transaction,Medium,2026-04-05,Under Investigation,No Issue
+AL101019,T914133,C10852,Repeated Failed Transaction,Medium,2026-04-05,Closed,Confirmed Suspicious
+AL101020,T914149,C10362,Repeated Failed Transaction,Medium,2026-09-20,Closed,Pending
+AL101021,T914152,C10145,Repeated Failed Transaction,Medium,2026-08-12,Under Investigation,Pending
+AL101022,T914167,C10164,Repeated Failed Transaction,Medium,2026-06-05,Escalated,No Issue
+AL101023,T914176,C10728,Repeated Failed Transaction,Medium,2026-07-16,Under Investigation,False Positive
+AL101024,T914186,C10054,Repeated Failed Transaction,Medium,2026-07-31,Under Investigation,False Positive
+AL101025,T914200,C10254,Repeated Failed Transaction,Medium,2026-05-31,Closed,No Issue
+AL101026,T914207,C10702,Repeated Failed Transaction,Medium,2026-07-30,Under Investigation,False Positive
+AL101027,T914221,C10042,Repeated Failed Transaction,Medium,2026-08-09,Under Investigation,Pending
+AL101028,T914258,C10251,Repeated Failed Transaction,Medium,2026-07-10,Open,False Positive
+AL101029,T914265,C10840,Repeated Failed Transaction,Medium,2026-08-17,Escalated,False Positive
+AL101030,T914303,C10233,Repeated Failed Transaction,Medium,2026-09-02,Closed,No Issue
+AL101031,T914329,C10147,Repeated Failed Transaction,Medium,2026-08-02,Open,False Positive
+AL101032,T914330,C10862,Repeated Failed Transaction,Medium,2026-09-20,Escalated,Pending
+AL101033,T914341,C10404,Repeated Failed Transaction,Medium,2026-06-17,Open,False Positive
+AL101034,T914342,C10192,Repeated Failed Transaction,Medium,2026-06-08,Under Investigation,Confirmed Suspicious
+AL101035,T914367,C10565,Repeated Failed Transaction,Medium,2026-04-01,Under Investigation,False Positive
+AL101036,T914368,C10720,Repeated Failed Transaction,Medium,2026-05-04,Under Investigation,No Issue
+AL101037,T914379,C10062,Repeated Failed Transaction,Medium,2026-06-28,Open,Pending
+AL101038,T914381,C10242,Repeated Failed Transaction,Medium,2026-04-17,Closed,Pending
+AL101039,T914387,C10827,Repeated Failed Transaction,Medium,2026-08-24,Escalated,False Positive
+AL101040,T914398,C10521,Repeated Failed Transaction,Medium,2026-05-27,Open,No Issue
+AL101041,T914402,C10923,Repeated Failed Transaction,Medium,2026-09-01,Open,Pending
+AL101042,T914407,C10955,Repeated Failed Transaction,Medium,2026-07-05,Escalated,No Issue
+AL101043,T914430,C10647,Repeated Failed Transaction,Medium,2026-06-30,Open,Pending
+AL101044,T914431,C10108,Repeated Failed Transaction,Medium,2026-05-29,Under Investigation,Pending
+AL101045,T914435,C10411,Repeated Failed Transaction,Medium,2026-05-31,Open,Pending
+AL101046,T914444,C10901,Repeated Failed Transaction,Medium,2026-09-24,Escalated,False Positive
+AL101047,T914446,C10557,Repeated Failed Transaction,Medium,2026-07-01,Closed,No Issue
+AL101048,T914450,C10435,Repeated Failed Transaction,Medium,2026-06-20,Escalated,No Issue
+AL101049,T914463,C10005,Dormant Account Activity,High,2026-04-22,Escalated,No Issue
+AL101050,T914476,C10371,Repeated Failed Transaction,Medium,2026-05-24,Under Investigation,No Issue
+AL101051,T914485,C10551,Repeated Failed Transaction,Medium,2026-04-17,Closed,No Issue
+AL101052,T914498,C10342,Repeated Failed Transaction,Medium,2026-05-30,Closed,Pending
+AL101053,T914500,C10012,Dormant Account Activity,High,2026-05-11,Closed,No Issue
+AL101054,T914522,C10754,Repeated Failed Transaction,Medium,2026-05-06,Escalated,Pending
+AL101055,T914530,C10796,Repeated Failed Transaction,Medium,2026-08-08,Closed,Pending
+AL101056,T914543,C10200,Repeated Failed Transaction,Medium,2026-07-18,Under Investigation,Pending
+AL101057,T914577,C10810,Repeated Failed Transaction,Medium,2026-06-01,Escalated,Confirmed Suspicious
+AL101058,T914584,C10461,Repeated Failed Transaction,Medium,2026-04-16,Under Investigation,Pending
+AL101059,T914632,C10630,Repeated Failed Transaction,Medium,2026-08-11,Open,False Positive
+AL101060,T914649,C10182,Repeated Failed Transaction,Medium,2026-06-29,Under Investigation,No Issue
+AL101061,T914656,C10018,Dormant Account Activity,High,2026-04-16,Closed,Pending
+AL101062,T914660,C10669,Repeated Failed Transaction,Medium,2026-06-22,Closed,False Positive
+AL101063,T914676,C10336,Repeated Failed Transaction,Medium,2026-04-04,Under Investigation,Confirmed Suspicious
+AL101064,T914733,C10998,Repeated Failed Transaction,Medium,2026-07-19,Open,Confirmed Suspicious
+AL101065,T914762,C10261,Repeated Failed Transaction,Medium,2026-07-08,Open,No Issue
+AL101066,T914773,C10197,Repeated Failed Transaction,Medium,2026-05-27,Closed,False Positive
+AL101067,T914775,C10982,Repeated Failed Transaction,Medium,2026-08-23,Closed,No Issue
+AL101068,T914780,C10012,Dormant Account Activity,High,2026-05-14,Under Investigation,Pending
+AL101069,T914819,C10343,Repeated Failed Transaction,Medium,2026-08-22,Open,No Issue
+AL101070,T914852,C10585,Repeated Failed Transaction,Medium,2026-08-22,Closed,False Positive
+AL101071,T914881,C10100,Repeated Failed Transaction,Medium,2026-06-09,Closed,Confirmed Suspicious
+AL101072,T914886,C10250,Repeated Failed Transaction,Medium,2026-09-20,Closed,Pending
+AL101073,T914893,C10098,Repeated Failed Transaction,Medium,2026-05-06,Under Investigation,Pending
+AL101074,T914895,C10291,Repeated Failed Transaction,Medium,2026-09-02,Open,No Issue
+AL101075,T914896,C10394,Repeated Failed Transaction,Medium,2026-06-14,Closed,False Positive
+AL101076,T914908,C10180,Repeated Failed Transaction,Medium,2026-08-15,Open,No Issue
+AL101077,T914946,C10002,Dormant Account Activity,High,2026-05-16,Closed,No Issue
+AL101078,T914948,C10332,Repeated Failed Transaction,Medium,2026-08-05,Open,No Issue
+AL101079,T914979,C10710,Repeated Failed Transaction,Medium,2026-06-19,Under Investigation,False Positive
+AL101080,T915001,C10723,High Value Transaction,High,2026-09-20,Closed,Pending
+AL101081,T915007,C10704,High Value Transaction,High,2026-09-17,Closed,Pending
+AL101082,T915019,C10913,High Value Transaction,High,2026-09-25,Closed,Pending
+AL101083,T915025,C10946,High Value Transaction,High,2026-09-16,Closed,False Positive
+AL101084,T915031,C10039,High Value Transaction,High,2026-09-18,Under Investigation,Pending
+AL101085,T915037,C10443,High Value Transaction,High,2026-09-25,Under Investigation,Confirmed Suspicious
+AL101086,T915043,C10102,High Value Transaction,High,2026-09-19,Closed,False Positive
+AL101087,T915049,C10954,High Value Transaction,High,2026-09-20,Under Investigation,Pending
+AL101088,T915055,C10722,High Value Transaction,High,2026-09-15,Closed,Pending
+AL101089,T915062,C10813,Potential Structuring,High,2026-09-16,Escalated,Pending
+AL101090,T915063,C10813,Potential Structuring,High,2026-09-16,Escalated,No Issue
+AL101091,T915064,C10813,Potential Structuring,High,2026-09-16,Closed,Pending
+AL101092,T915066,C10533,Potential Structuring,High,2026-09-14,Under Investigation,No Issue
+AL101093,T915067,C10533,Potential Structuring,High,2026-09-14,Open,False Positive
+AL101094,T915068,C10533,Potential Structuring,High,2026-09-14,Open,Confirmed Suspicious
+AL101095,T915069,C10533,Potential Structuring,High,2026-09-14,Escalated,No Issue
+AL101096,T915070,C10533,Potential Structuring,High,2026-09-14,Closed,False Positive
+AL101097,T915071,C10325,Potential Structuring,High,2026-09-27,Escalated,Pending
+AL101098,T915072,C10325,Potential Structuring,High,2026-09-27,Under Investigation,No Issue
+AL101099,T915073,C10325,Potential Structuring,High,2026-09-27,Under Investigation,Pending
+AL101100,T915074,C10325,Potential Structuring,High,2026-09-27,Escalated,Pending
+AL101101,T915075,C10325,Potential Structuring,High,2026-09-27,Open,False Positive
+AL101102,T915076,C10194,Potential Structuring,High,2026-09-26,Escalated,No Issue
+AL101103,T915077,C10194,Potential Structuring,High,2026-09-26,Closed,Pending
+AL101104,T915078,C10194,Potential Structuring,High,2026-09-26,Closed,False Positive
+AL101105,T915079,C10194,Potential Structuring,High,2026-09-26,Closed,No Issue
+AL101106,T915081,C10861,Potential Structuring,High,2026-09-12,Escalated,Confirmed Suspicious
+AL101107,T915082,C10861,Potential Structuring,High,2026-09-12,Under Investigation,Confirmed Suspicious
+AL101108,T915083,C10861,Potential Structuring,High,2026-09-12,Closed,False Positive
+AL101109,T915084,C10861,Potential Structuring,High,2026-09-12,Closed,Confirmed Suspicious
+AL101110,T915085,C10861,Potential Structuring,High,2026-09-12,Escalated,Confirmed Suspicious
+AL101111,T915086,C10571,Potential Structuring,High,2026-09-27,Escalated,Confirmed Suspicious
+AL101112,T915087,C10571,Potential Structuring,High,2026-09-27,Under Investigation,Pending
+AL101113,T915088,C10571,Potential Structuring,High,2026-09-27,Escalated,False Positive
+AL101114,T915089,C10571,Potential Structuring,High,2026-09-27,Escalated,False Positive
+AL101115,T915090,C10571,Potential Structuring,High,2026-09-27,Under Investigation,Pending
+AL101116,T915091,C10676,Potential Structuring,High,2026-09-25,Open,Confirmed Suspicious
+AL101117,T915092,C10676,Potential Structuring,High,2026-09-25,Open,No Issue
+AL101118,T915093,C10676,Potential Structuring,High,2026-09-25,Under Investigation,Confirmed Suspicious
+AL101119,T915094,C10676,Potential Structuring,High,2026-09-25,Escalated,Confirmed Suspicious
+AL101120,T915095,C10676,Potential Structuring,High,2026-09-25,Open,No Issue
+AL101121,T915096,C10857,Potential Structuring,High,2026-09-10,Escalated,Pending
+AL101122,T915098,C10857,Potential Structuring,High,2026-09-10,Closed,No Issue
+AL101123,T915099,C10857,Potential Structuring,High,2026-09-10,Escalated,Confirmed Suspicious
+AL101124,T915103,C10898,Geographic Anomaly,High,2026-09-26,Closed,Pending
+AL101125,T915106,C10641,Geographic Anomaly,High,2026-09-24,Closed,False Positive
+AL101126,T915109,C10036,Geographic Anomaly,High,2026-09-23,Open,False Positive
+AL101127,T915112,C10971,Geographic Anomaly,High,2026-09-26,Escalated,Pending
+AL101128,T915115,C10649,Geographic Anomaly,High,2026-09-17,Under Investigation,Pending
+AL101129,T915117,C10005,Dormant Account Activity,High,2026-09-27,Escalated,Pending
+AL101130,T915118,C10012,Dormant Account Activity,High,2026-09-27,Closed,Confirmed Suspicious
+AL101131,T915119,C10017,Dormant Account Activity,High,2026-09-27,Under Investigation,No Issue
+AL101132,T915122,C10642,Repeated Failed Transaction,Medium,2026-09-27,Open,Confirmed Suspicious
+AL101133,T915123,C10642,Repeated Failed Transaction,Medium,2026-09-27,Closed,False Positive
+AL101134,T915124,C10642,Repeated Failed Transaction,Medium,2026-09-27,Under Investigation,No Issue
+AL101135,T915126,C10008,Repeated Failed Transaction,Medium,2026-09-18,Open,No Issue
+AL101136,T915127,C10008,Repeated Failed Transaction,Medium,2026-09-18,Escalated,No Issue
+AL101137,T915128,C10008,Potential Structuring,High,2026-09-18,Closed,No Issue
+AL101138,T915129,C10008,Repeated Failed Transaction,Medium,2026-09-18,Under Investigation,No Issue
+AL101139,T915131,C10251,Repeated Failed Transaction,Medium,2026-09-21,Closed,No Issue
+AL101140,T915132,C10251,Repeated Failed Transaction,Medium,2026-09-21,Under Investigation,Pending
+AL101141,T915133,C10251,Repeated Failed Transaction,Medium,2026-09-21,Closed,Pending
+AL101142,T915134,C10251,Repeated Failed Transaction,Medium,2026-09-21,Closed,No Issue
+AL101143,T915136,C10140,Repeated Failed Transaction,Medium,2026-09-22,Escalated,Confirmed Suspicious
+AL101144,T915137,C10140,Repeated Failed Transaction,Medium,2026-09-22,Under Investigation,No Issue
+AL101145,T915138,C10140,Repeated Failed Transaction,Medium,2026-09-22,Escalated,No Issue
+AL101146,T915139,C10140,Repeated Failed Transaction,Medium,2026-09-22,Under Investigation,False Positive
+AL101147,T915141,C10600,Repeated Failed Transaction,Medium,2026-09-28,Open,False Positive
+AL101148,T915143,C10600,Repeated Failed Transaction,Medium,2026-09-28,Under Investigation,False Positive
+AL101149,T915144,C10600,Repeated Failed Transaction,Medium,2026-09-28,Escalated,Pending
+AL101150,T906459,C10723,Transaction Velocity Spike,High,2026-04-01,Under Investigation,Pending
+AL101151,T910063,C10704,Transaction Velocity Spike,High,2026-04-03,Under Investigation,Pending
+AL101152,T910308,C10322,Transaction Velocity Spike,High,2026-04-30,Under Investigation,Pending
+AL101153,T906013,C10913,Transaction Velocity Spike,High,2026-04-05,Under Investigation,Pending
+AL101154,T904897,C10946,Transaction Velocity Spike,High,2026-04-22,Under Investigation,Pending
+AL101155,T903848,C10039,Transaction Velocity Spike,High,2026-05-13,Under Investigation,Pending
+AL101156,T907663,C10443,Transaction Velocity Spike,High,2026-04-05,Under Investigation,Pending
+AL101157,T909124,C10102,Transaction Velocity Spike,High,2026-04-17,Under Investigation,Pending
+AL101158,T914832,C10954,Transaction Velocity Spike,High,2026-04-29,Under Investigation,Pending
+AL101159,T906712,C10722,Transaction Velocity Spike,High,2026-04-18,Under Investigation,Pending
